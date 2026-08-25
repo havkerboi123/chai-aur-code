@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Noto+Nastaliq+Urdu:wght@500;700&family=Work+Sans:wght@400;500;600&display=swap');
+
+:root {
+  --bg: #f7f4ee;
+  --surface: #fbf9f4;
+  --border: #ddd6c7;
+  --text: #2b2a24;
+  --text-muted: #6f6a5c;
+  --green: #4a6a4d;
+  --green-deep: #35492f;
+  --terracotta: #c1613a;
+  --mustard: #c9962b;
+  --ocean: #3d6e87;
+  --clay: #b1483f;
+  --sage: #6f8c52;
+  --plum: #7d5480;
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Work Sans', -apple-system, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input {
+  font-family: inherit;
+}
