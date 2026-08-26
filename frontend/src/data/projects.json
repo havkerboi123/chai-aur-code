@@ -1,0 +1,1032 @@
+[
+  {
+    "id": 7,
+    "name": "Sahi Tareeqa",
+    "description": "Government processes, verified & up to date so people don't get their time. wasted and no second visits if avoidable , best way to do something",
+    "github_url": "https://github.com/shahzadalidotnet/gdg_event_2026_pakistan_problem_solve.git",
+    "deployed_url": "https://shahzadalidotnet.github.io/gdg_event_2026_pakistan_problem_solve/#",
+    "submitter": "Shahzad Ali",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 8,
+    "name": "Elechome",
+    "description": "ElecHome is an AI-powered energy management platform designed to solve everyday electricity problems. It helps users monitor and understand energy consumption, identify waste, estimate costs, optimize usage, and discover practical ways to reduce electricity bills. By turning complex energy data into simple, actionable insights, ElecHome makes smarter and more efficient energy management accessible to everyone",
+    "github_url": "https://github.com/fareedamir20/energy-wise-pakistan",
+    "deployed_url": "https://elechome.netlify.app/",
+    "submitter": "Fareed Amir",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 9,
+    "name": "Dera.pk",
+    "description": "Dera.pk is a digital housing and marketplace platform designed specifically for Pakistani university students and young professionals. It streamliens student accommodation search, room booking, shared living management, and localized marketplace services into a single centralized web application.",
+    "github_url": "https://github.com/derapkkk-creator/derapk",
+    "deployed_url": "https://derapk.vercel.app/",
+    "submitter": "Muhammad Talal Bin Rashid",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 10,
+    "name": "CivicFix",
+    "description": "CivicFix makes reporting a civic issue as simple as uploading a photo. AI examines the uploaded image and optional citizen notes, identifies the issue, estimates the safety risk, and routes the complaint to the most relevant department. It then creates a professional English complaint letter that the user can copy or download as a text file.\nThe goal is to remove administrative friction and help residents take practical action for safer, better-maintained communities.",
+    "github_url": "https://github.com/ayeeshailyas/civicfix",
+    "deployed_url": "https://civicfix-hazel.vercel.app",
+    "submitter": "Ayesha Ilyas",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 11,
+    "name": "Jhoot Detector",
+    "description": "An AI-powered scam analysis tool that evaluates job postings from Pakistani social media groups and job boards to detect recruitment fraud, upfront fee extortion, and identity theft traps.",
+    "github_url": "https://github.com/abdulhayykhan/Jhoot-Detector",
+    "deployed_url": "https://jhoot-detector.vercel.app",
+    "submitter": "Abdul Hayy Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 12,
+    "name": "Qeemat",
+    "description": "Qeemat is an AI-powered price-checking tool designed for Pakistani shoppers. Users enter a product and the price they found, and Qeemat analyzes whether the price is reasonable, provides an estimated price range, suggests cheaper alternatives, and gives a simple money-saving tip. The goal is to help people make smarter purchasing decisions and avoid overpaying for everyday products.",
+    "github_url": "https://github.com/zubair-xd01/Qeemat",
+    "deployed_url": "https://qeemat-one.vercel.app/",
+    "submitter": "Zubair Ali Bhan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 13,
+    "name": "MeinPakistanHun",
+    "description": "We keep complaining, but we forgot most often about our responsibilities towards nation. Its just a reflection of this idea",
+    "github_url": "NA",
+    "deployed_url": "https://pakistan-speaks--muzammilpgcfj89.replit.app/",
+    "submitter": "Muhammad Muzammil Hassan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 14,
+    "name": "mehengai meter",
+    "description": "Mehngai Meter is a Pakistan-focused inflation calculator that shows what money from 1947–2025 is worth in 2026 PKR. It turns abstract inflation into relatable everyday comparisons such as naan, chai, petrol, gold, salary, and cars through a simple mobile-friendly experience built around Pakistan @79.",
+    "github_url": "https://github.com/hammad-tayyab/mehangai-meter",
+    "deployed_url": "https://mehangai-meter.vercel.app/",
+    "submitter": "Hammad Tayyab",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 15,
+    "name": "Kya Kya Chahiye?",
+    "description": "Kya Kya Chahiye? — https://gdg-session-lac.vercel.app\n\nA bilingual English/Urdu web app listing exactly what documents, fees and offices you need for 12 Pakistani government tasks — CNIC, passport, NTN, domicile, driving licence, property transfer and more. Each task has a saveable tick-off checklist, a \"What people forget\" section covering the real reasons applications get rejected, and a printable A4 list to carry to the counter. Full RTL Urdu support and search across both scripts. 68 documents, fees verified against official NADRA/DGIP/FBR rates.",
+    "github_url": "https://github.com/BinMansoor11/kya-kya-chahiye",
+    "deployed_url": "https://gdg-session-lac.vercel.app/ur",
+    "submitter": "Talha Mansoor",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 16,
+    "name": "Todaymenu",
+    "description": "In which user ask from all family what should cook today every ones desired food make a spin wheel and that wheel decide the final menu for cook",
+    "github_url": "https://github.com/muhammadkamaljaved/project",
+    "deployed_url": "https://todaymenu.craftrex.com/",
+    "submitter": "Muhammad Kamal Javed",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 17,
+    "name": "Asli Dawa",
+    "description": "Platform that protects Pakistani citizens from counterfeit and substandard medicines. By combining multimodal computer vision, GS1 2D DataMatrix/barcode parsing, DRAP (Drug Regulatory Authority of Pakistan) regulatory cross-referencing, and community crowd-sourced risk alerts, Asli Dawa empowers everyday citizens and pharmacies to instantly verify the authenticity, batch validity, pricing integrity, and recall status of any medicine before ingestion.",
+    "github_url": "https://github.com/ReachMuhammadAhmed/AsliDawa",
+    "deployed_url": "https://asli-dawa.ai.studio/",
+    "submitter": "Muhammad Ahemd",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 18,
+    "name": "Electricity Bill Explainer",
+    "description": "Bill Bolo is an AI-powered platform that simplifies Pakistani electricity bills by explaining charges, usage, taxes, and adjustments in easy-to-understand language.",
+    "github_url": "https://github.com/Syedmuhammadsulaiman/Electricity-Bill-Explainer",
+    "deployed_url": "https://electricity-bill-explainer.vercel.app/",
+    "submitter": "Syed Muhammad Sulaiman",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 19,
+    "name": "Bijli Checker",
+    "description": "Pakistan has ~40 million electricity connections and no way for a household to\ncheck whether its bill is correct. Every existing tool like checkbills.pk,\nbillcalculator.com.pk, the DISCO apps, either fetches your bill or\nforward-estimates one. None of them audit a bill you have already received.",
+    "github_url": "https://github.com/Muhammad-Sohair/bijlicheck",
+    "deployed_url": "https://bijlicheck.vercel.app/",
+    "submitter": "Muhammad Sohair Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 20,
+    "name": "CareerSecondBrain",
+    "description": "ADME\n🧠 CareerSecondBrain: Client-Optimized Career Architect\nAn advanced, highly responsive undergraduate career option-exploration workspace built for the USAII® Global AI Hackathon 2026. This standalone browser platform transforms messy conversational text inputs or structured course syllabi files dynamically into clear tradeoff matrices and structured developmental milestones.\n\n🚀 Features\n100% Client-Optimized Architecture: All processing and data parsing execute directly inside the user's browser tab, eliminating heavy server latency loops.\nUniversal Multi-Career Core: Dynamically computes precise timelines and analysis fields for any requested profession on Earth (e.g., Electrician, Plumber, Doctor, or Software Developer).\nCORS-Compliant Pipeline: Connects securely to Mistral AI's flagship reasoning nodes over native HTTPS streaming protocol schemes.\nResponsible AI Safety Box: Displays a prominent, transparent guardrail card detailing a strict \n±\n14\n tracking variance rule based on data granularity to prevent automation over-reliance.\n🛠️ Prerequisites & Requirements\nTo run this application locally on your device, you only need:\n\nA standard web browser (Google Chrome, Microsoft Edge, or Mozilla Firefox).\nPython 3.x installed on your operating system (used strictly for lightweight local asset hosting).\n💾 Installation Guide\nFollow these simple steps to spin up the codebase on your machine in under 60 seconds:\n\n1. Clone or Download the Project Folder\nDownload the repository files to a directory on your machine:\n\ngit clone https://github.com\ncd CareerSecondBrain\n2. Verify Your File Structure\nEnsure your local project directory contains exactly these files:\n\nindex.html (The primary client interface and application logic matrix)\nREADME.md (This technical operations guide)\n🎮 How to Use Step-by-Step\nStep 1: Launch the Local Asset Server\nOpen your computer's terminal window or Command Prompt, navigate directly inside your project folder, and execute Python's built-in hosting module to securely clear browser CORS firewalls:\n\npython -m http.server 8080\nLeave this terminal window open during your active session.\n\nStep 2: Access the Client Interface Dashboard\nOpen your web browser and navigate directly to this secure local hosted loop link: 👉 http://localhost:8080/index.html\n\nStep 3: Authenticate and Sync\nEnter your unstructured thoughts or target career focus parameters inside the Text Notes & Focus Questions vault box (e.g., \"Provide a career path for an expert electrician\").\nClick the blue Sync & Structure Brain button.\ni have my own api key for testing this. so it will work\nStep 4: Explore Your Customized Milestones\nWatch the indicator light change to a vibrant green Synchronized badge! Your dynamic, dark-slate career tradeoff blocks, progressive certification milestones, and Responsible AI guardrail warning cards will render on your screen in under 1.5 seconds flat!",
+    "github_url": "https://github.com/Raahim-Ali-Shah/CareerSecondbrain",
+    "deployed_url": "https://github.com/Raahim-Ali-Shah/CareerSecondbrain",
+    "submitter": "Raahim Ali Shah",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 21,
+    "name": "Pakistan ka digital doctor",
+    "description": "Pakistan Ka Digital Doctor is an offline-first, client-side clinical AI diagnostics suite designed to bring accessible healthcare to every corner of Pakistan. Unified into a single web application, the platform features 12 specialized diagnostic modules powered by advanced AI models (Llama 3.2 Vision, Llama 3.3, and Whisper AI).\n\nKey features include ophthalmic (eye) analysis, dermatological (skin) rash detection, post-operative wound tracking, cough acoustic analysis, and multilingual voice-to-voice triage supporting Urdu, Roman Urdu, Punjabi, Pashto, Sindhi, and English. Operating entirely client-side, the platform guarantees 100% patient privacy with zero database storage, generates printable prescription pads with over-the-counter medicine suggestions, and enables instant triage referral forwarding to local doctors via WhatsApp.",
+    "github_url": "https://github.com/hamza0312615/pakistani-problem-.git",
+    "deployed_url": "https://pakistani-problem.vercel.app/",
+    "submitter": "Muhammad Hamza",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 22,
+    "name": "TypeMaster",
+    "description": "TypeMaster is a real-time typing speed and accuracy testing game built with a bold, brutalist design. Users type a given text as fast and accurately as possible, and the app instantly calculates their WPM (words per minute) and accuracy. Scores are tracked on a live global leaderboard, letting players compete against each other and push to improve their typing skills. Built with Next.js, React, TypeScript, and Supabase, it delivers a clean, distraction-free typing experience with instant feedback and fast, competitive test sessions.",
+    "github_url": "https://github.com/ausafulislam/Typing-Master",
+    "deployed_url": "https://typing-speed-challenge-gamma.vercel.app/",
+    "submitter": "Ausaf Ul Islam",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 23,
+    "name": "Instant-DB",
+    "description": "# Instant-DB\n\n**Understand your database instantly.**\n\nInstant-DB is a fast, zero-install database workspace that lets developers and students **open, explore, query, edit, and understand SQLite databases directly in the browser**.\n\nInstead of digging through tables or writing SQL for every simple question, users can ask questions in **plain English**. Its AI assistant understands the database schema, generates the appropriate SQL, safely executes read-only queries against the actual database, and presents the real results in an easy-to-understand way.\n\n### ✨ Key Features\n\n* 🗄️ **Open SQLite databases instantly** — no installation or complicated setup.\n* 🤖 **AI Database Assistant** — ask questions about your data using natural language.\n* ⚡ **Natural Language → SQL** — generate queries without manually writing SQL.\n* 🔒 **Safe AI execution** — AI-generated read-only queries are validated before execution.\n* 📊 **Powerful Data Grid** — browse, filter, sort, edit, duplicate, and delete records.\n* 🔗 **Interactive ER Diagram** — automatically visualize relationships between tables.\n* 🧠 **Schema-aware AI** — the assistant works with your actual database structure instead of guessing.\n* 🛠️ **SQL Editor** — write, format, execute, and analyze SQL queries.\n* 📥 **Import & Export** — work with CSV, JSON, and SQLite data.\n* 🧪 **Fake Data Generator** — quickly generate realistic test data.\n* ↩️ **Undo / Redo** — safely manage database changes.",
+    "github_url": "https://github.com/CodewithMubasher/Instant-DB",
+    "deployed_url": "https://codewithmubasher.github.io/Instant-DB/",
+    "submitter": "Mubasher Chaudhary",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 24,
+    "name": "Kaam Asaan Pakistan",
+    "description": "Kaam Asaan Pakistan is a multilingual web platform that simplifies Pakistani government procedures for ordinary citizens. Users can search for services such as CNICs, passports, driving licences and domiciles, then receive clear, step-by-step guidance covering required documents, official fees, processing times and relevant office locations. The platform provides location-specific information in English, Urdu and Pashto, helping people save time, avoid unnecessary visits and reduce their dependence on agents or unofficial sources.",
+    "github_url": "https://github.com/haseebkhanofficial/kaam-asaan-pakistan",
+    "deployed_url": "https://kaam-asaan-pakistan.haseebkhan1-official.chatgpt.site/   (Just wanted to mention this, you need to login with your Chatgpt account)",
+    "submitter": "Abdul Haseeb Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 25,
+    "name": "fair-fare-estimator",
+    "description": "A fair-fare checker for rickshaws and taxis in Pakistan. Enter your pickup and drop-off (or just the distance) and vehicle type, and it returns a fair price range instead of a single guessed number — plus flags when a quoted price is above that range. Distance is calculated automatically from real addresses using OpenStreetMap geocoding and routing, and it pulls today's actual petrol price live to keep the numbers grounded in current conditions",
+    "github_url": "https://github.com/mrcarnot/RickshawFairCheker.git",
+    "deployed_url": "https://melodic-sherbet-d8316d.netlify.app/",
+    "submitter": "Muhammad Saad Bilal",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 26,
+    "name": "Amanat-Lost & Found",
+    "description": "Amanat is an emergency recovery assistant designed specifically for Pakistani citizens who lose critical identity and legal documents (CNIC, Passport, Driving License, Degree/Certificate, Vehicle Registration, Bank Cards, or Mobile Phones).\n\nInstead of roaming between police stations and government counters in confusion, Amanat provides citizens with an instant, personalized checklist of what to do first, what documents to prepare, which official portals to use, and a live progress tracker until their document is safely recovered or reissued.",
+    "github_url": "https://github.com/manahil-habib31/Amanat-App",
+    "deployed_url": "https://amanat-jet.vercel.app/",
+    "submitter": "Manahil Habib",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 27,
+    "name": "DataNikalo",
+    "description": "Pluck is a data extraction tool that turns any web page, file, or data feed into a clean, structured table without requiring any code. It can read data from static HTML, pages that require JavaScript rendering, JSON/REST APIs, PDFs, and even photos or screenshots of tables using OCR. The tool runs extracted data through a cleaning pipeline that normalises units, standardises dates, handles missing values, and checks user-defined validation rules before exporting the results to CSV, JSON, Excel, SQLite, or Google Sheets",
+    "github_url": "https://github.com/Masuminayat/DataNikaalo",
+    "deployed_url": "https://exercises-reproduced-public-compound.trycloudflare.com",
+    "submitter": "Masum Abbas",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 28,
+    "name": "Awaaz AI",
+    "description": "Awaaz AI (آواز) is a simple, voice-first website where any Pakistani citizen can report local problems like broken electricity transformers, water leaks, uncleaned garbage, or damaged roads in under 30 seconds.\n\nHow it helps:\n\n🎙️ Just Speak into the Mic: Anyone can simply press the microphone and speak in Urdu or their native language—no typing or reading required.\n🤖 Smart AI Assistant: Understands your issue, identifies the right government department (LESCO, WASA, CDA, etc.), and draws a helpful visual illustration of the problem.\n📄 Ready-Made Government Letters: Writes an official complaint letter for you in both Urdu and English backed by your constitutional rights.\n📢 1-Click WhatsApp & Twitter Sharing: Creates a ready-to-send post to share with friends, neighborhood groups, and government authorities to get things fixed fast.",
+    "github_url": "https://github.com/Asad101001/AwaazAI",
+    "deployed_url": "https://awaazpk.vercel.app/",
+    "submitter": "Muhammad Asad Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 29,
+    "name": "Haq",
+    "description": "HAQ is a privacy-first civic assistance app that helps people understand unfair situations, organize facts and evidence, prepare complaints, and track their cases—all in one place.",
+    "github_url": "https://github.com/Hadia-1/Haq",
+    "deployed_url": "https://creative-strudel-4ad227.netlify.app/",
+    "submitter": "Hadia Afsheen",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 30,
+    "name": "MOHALLA: See it. Report it. Resolve it.",
+    "description": "Mohalla (محلہ) is an AI-powered, mobile-first civic intelligence and rapid emergency response network built specifically for Pakistani metropolitan and local communities. The application empowers citizens across cities like Lahore, Karachi, and Islamabad to capture everyday neighborhood hazards—such as broken streetlights, uncovered manholes, open garbage dumps, broken roads, and water leaks—using instant camera uploads that are automatically classified and prioritized by Gemini Multimodal AI. Rather than creating isolated or duplicate complaints, Mohalla utilizes a localized collective consensus model where verified residents (authenticated via CNIC and ward details) can \"+1 Witness\" existing reports to elevate their urgency score on a public Mohalla Health Index and interactive ward map. Crucially, the platform also integrates an instant Emergency SOS dispatch hub connecting citizens directly with Rescue 1122, Police 15, and specialized helplines, complete with automated GPS coordinate transmission and live operator tracking, all packaged within a high-accessibility, bilingual interface supporting full Urdu (RTL) and English.",
+    "github_url": "https://github.com/c0llectorr/mohalla-civic-intelligence",
+    "deployed_url": "https://ai.studio/apps/2545966e-05b4-4228-9923-decb6d7fe42e",
+    "submitter": "Muhammad Ahmad",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 31,
+    "name": "Dawai Dost 💊",
+    "description": "Dawai Dost is a simple, user-friendly medicine reminder and medication tracking web app that helps users stay on schedule, track taken and missed medicines, and receive browser-based reminders. It is designed with a focus on accessibility, simplicity, and everyday medication management.",
+    "github_url": "https://github.com/nimra23-cyber/dawai-reminder",
+    "deployed_url": "https://dawai-reminder.lovable.app",
+    "submitter": "Nimra Tariq",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 32,
+    "name": "AMANAT",
+    "description": "Amanat is a bilingual donation transparency platform designed for Pakistan. It allows donors to create a donation, receive a unique tracking ID, and follow their donation from allocation to delivery. Volunteers can update delivery status, while recipient OTP verification confirms that the donation actually reached its intended destination. Amanat aims to build trust by making the journey and impact of every donation more transparent.",
+    "github_url": "https://github.com/Rida-thedeveloper/AMANAT-Chai-Code",
+    "deployed_url": "https://amanat-chai-code.vercel.app/",
+    "submitter": "Rida Fatima",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 33,
+    "name": "Sahi Jaa Raha Hai?",
+    "description": "A simple tool that lets Pakistani small businesses test their Instagram/TikTok product videos before posting. Upload your video, and six different Pakistani audience personas  from a Karachi scroller to a skeptical rural Punjab shopper  watch it and give honest reactions. See where viewers drop off, what they'd comment, whether they'd share it, and get an estimated reach score, all before you spend your one shot at posting.",
+    "github_url": "https://github.com/afeefah3/sahi-jaa-raha-hai",
+    "deployed_url": "https://sahi-jaa-raha-hai-myhtrtk8zoejwsa7ywxgvp.streamlit.app",
+    "submitter": "Afeefah Manzoor",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 34,
+    "name": "Bijli Bill Estimator",
+    "description": "Bijli Bill Estimator is a simple and user-friendly tool designed to help Pakistani households estimate their monthly electricity bill based on electricity consumption. The project considers unit usage and applicable electricity tariff rates to provide an approximate bill amount before the actual bill arrives. It helps users understand their electricity consumption, plan their monthly budget, and become more aware of ways to reduce electricity costs.",
+    "github_url": "https://github.com/mariashaikh249-art/bijli-bill-estimator",
+    "deployed_url": "https://6a7f4e779a55fbd788b88353--resilient-cascaron-447b11.netlify.app/bijli-bill-estimator.html",
+    "submitter": "Maria",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 35,
+    "name": "pakistan-bondchecker",
+    "description": "BondChecker is a fast, private, and beautifully designed web application that allows users to instantly check their Pakistani Prize Bonds against official draw results. It operates entirely locally in the browser, ensuring users' financial data remains completely private and secure on their own devices.",
+    "github_url": "https://github.com/mrdaniyalali/pakistan-bondchecker",
+    "deployed_url": "https://pakistan-bondchecker.vercel.app/",
+    "submitter": "Daniyal Ali Rangwala",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 36,
+    "name": "MadadGar",
+    "description": "An open, multilingual citizen services navigator for Pakistan providing verified document checklists, official fees, and step-by-step procedures to eliminate agent middlemen",
+    "github_url": "https://github.com/kasaam-ali/Madad-Gar",
+    "deployed_url": "https://madad-gar.vercel.app/",
+    "submitter": "Kasaam Ali",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 37,
+    "name": "Rasta",
+    "description": "Rasta is a blood donor finder. Register once with your blood type and city, and anyone searching can find and request contact with a matching donor nearby. Donors who gave blood in the last 3 months are automatically hidden, and contact info is only shared with explicit consent.",
+    "github_url": "https://github.com/kashifkhan-659/Rasta",
+    "deployed_url": "https://rasta-six.vercel.app/",
+    "submitter": "Muhammad Kashif Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 38,
+    "name": "KARACHI SUNO PK",
+    "description": "KARACHI SUNO PK is an AI-powered civic problem solver for Karachi. Citizens can describe issues such as potholes, water shortages, garbage, drainage, electricity, gas, street lights and traffic problems in English, Urdu or Roman Urdu. The app uses AI to turn their description into a clear, professional, ready-to-send complaint with the relevant authority, priority and recommended actions.",
+    "github_url": "https://github.com/fajshah/https-github.com-fajshah-karachi-ki-awaz-suno.git",
+    "deployed_url": "https://https-github-com-fajshah-karachi-ki.vercel.app/",
+    "submitter": "Syeda Farzana Shah",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 39,
+    "name": "EduFinderPK",
+    "description": "Find educational institutions around your current location...",
+    "github_url": "https://github.com/Jibran-Anjum/EduFinderPK",
+    "deployed_url": "edu-finder-pk-plum.vercel.app",
+    "submitter": "Jibran Anjum Chughtai",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 40,
+    "name": "Rabita",
+    "description": "a complete community management portal.",
+    "github_url": "https://github.com/Seltherpython/Rabita",
+    "deployed_url": "rabita-v1.vercel.app",
+    "submitter": "Haziq Mahmood",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 41,
+    "name": "Hisaab App",
+    "description": "Hisaab (حساب) digitises the committee — the rotating savings group (ROSCA / BC / بھشی) that tens of millions of Pakistani families already run every month.\n\nOne person creates a committee and adds members by name and phone — the members don't need the app yet. They immediately get a live ledger: who has paid, who hasn't, and whose turn it is to take the pot this month. A member marks \"I have paid\", the organizer confirms the cash arrived, and every action is written to an append-only audit trail that cannot be edited. Anyone still owing gets a one-tap WhatsApp reminder generated from the live ledger, so it can never name someone who has already paid.\n\nBecause every on-time payment is now recorded and independently confirmed, the app produces something that never existed before: the Hisaab Score — a portable repayment history the member owns and a lender can actually check. When a member later installs the app and registers with the same number, their entire history is already waiting for them.\n\nBuilt in Flutter (Android + web) on Supabase Postgres, with every authorisation rule enforced inside the database rather than the app. Fully bilingual Urdu and English, Urdu by default.",
+    "github_url": "https://github.com/Malikasadjaved/hisaab",
+    "deployed_url": "https://malikasadjaved.github.io/hisaab/",
+    "submitter": "asad javed",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 42,
+    "name": "Explainify – Visual AI Tutor for Pakistani Students",
+    "description": "Explainify turns any topic into a narrated educational animation in minutes. It uses AI to generate a storyboard, Manim animations, and voiceover. Designed for students who struggle with dense textbooks and lack access to quality visual explanations – especially in Pakistan's under-resourced schools.",
+    "github_url": "https://github.com/theyapguard/Explainify",
+    "deployed_url": "Github repo",
+    "submitter": "Muhammad Mujtaba",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 43,
+    "name": "Bijli Saathi",
+    "description": "AI-powered Pakistani electricity bill analyzer that explains your bill, identifies consumption changes, and provides personalized energy-saving insights.",
+    "github_url": "https://github.com/Areebanaeemsatti/Bijli-Saathi",
+    "deployed_url": "https://bijli-saathi.vercel.app/",
+    "submitter": "Areeba Naeem Satti",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 44,
+    "name": "Negotia",
+    "description": "Negotia – Chrome Extension for Smarter Negotiation\nNegotia is a Chrome extension designed to help users handle negotiations more confidently and efficiently. It is built for situations where a person receives a client message, contract proposal, salary offer, or scope request and needs to quickly understand the position, estimate value, and respond strategically.\n\nWhy this extension exists\nMany people struggle with negotiation because they:\n\ndo not know whether an offer is competitive\ncannot quickly assess leverage\ndo not know how to respond professionally\nlose time trying to interpret vague client messages\nfear accepting a low-value deal or making a weak counteroffer\nThis extension solves that problem by turning a raw message into a structured negotiation assessment in seconds.\n\nWhat the extension does\nWhen the user pastes a negotiation message into the extension, it:\n\ndetects the type of negotiation\nextracts key details like amount, stage, and tone\nestimates a market value\nidentifies the user’s leverage level\ncalculates a suggested counteroffer\ngenerates a negotiation strategy\ndrafts a response message that can be copied and used immediately\nThis makes the extension useful for:\n\nfreelancers negotiating project rates\njob seekers discussing salary or compensation\nteams reviewing client proposals\nprofessionals handling contract terms and scope changes",
+    "github_url": "https://github.com/asad9200/Negotia.git",
+    "deployed_url": "https://negotia-extension.vercel.app/popup.html",
+    "submitter": "Muhammad Asad Ullah",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 45,
+    "name": "Asal-ya-Nakli",
+    "description": "Asal ya Nakli (اصل یا نقلی؟) is an evidence-based medicine authenticity intelligence platform for Pakistan. By cross-referencing medicine packaging photos and registration numbers against official Drug Regulatory Authority of Pakistan (DRAP) databases, WHO global safety alerts, and citizen community reports, it provides patients with an instant, explainable risk score (0-100) before they consume a medicine",
+    "github_url": "https://github.com/HamzaKhanBUIC/asal-ya-nakli",
+    "deployed_url": "https://asal-ya-nakli.web.app/",
+    "submitter": "Hamza Imran",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 46,
+    "name": "Mehngai Check",
+    "description": "MehngaiCheck is a crowdsourced price intelligence platform designed to help Pakistani consumers check and compare everyday product rates in their local neighborhoods. By reporting and reviewing real transaction prices, citizens collaborate to identify overpricing anomalies and make informed purchasing decisions.",
+    "github_url": "https://github.com/asif7480/Mehngai-Check",
+    "deployed_url": "https://mehngai-check-frontend.vercel.app/",
+    "submitter": "Asif Ahmed Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 47,
+    "name": "IMDAD",
+    "description": "IMDAD (امداد — \"aid\") is a free web app that asks 11 questions about your household and tells you which government schemes you qualify for.\n\nIt checks across 12 real programs — BISP Kafalat, Sehat Card, Nashonuma, Zakat, Kisan Card, EOBI, and more. For each match it shows what you get, what it's worth, and exactly how to apply: the portal, the SMS code, the documents.\n\nNo signup. No office visit. Just answers.",
+    "github_url": "https://github.com/ahm3d-karim/imdad",
+    "deployed_url": "https://imdad-beta.vercel.app/",
+    "submitter": "Ahmad Karim",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 48,
+    "name": "Committee.pk",
+    "description": "Committee.pk is a lightweight, high-performance digital ROSCA (Beesi) management web application built with clean HTML, CSS, and modern JavaScript, deployed on Cloudflare edge infrastructure. It offers a fast, zero-bloat interface where users can seamlessly create savings committees, configure durations and amounts, and maintain a transparent record of all ongoing cycles.",
+    "github_url": "https://committee-pk.pages.dev/",
+    "deployed_url": "https://committee-pk.pages.dev/",
+    "submitter": "Muhammad Arsalan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 49,
+    "name": "SEHAT-LINK",
+    "description": "SEHAT_LINK is an AI-powered healthcare platform designed to make basic health guidance more accessible, understandable, and actionable. Users can describe their symptoms, receive AI-assisted health insights, understand possible causes, and get guidance on appropriate next steps.\n\nThe platform focuses on a simple, user-friendly experience that helps people navigate health concerns without overwhelming them with complicated medical information. It is designed as an assistive tool, not a replacement for professional medical diagnosis or treatment.\n\nKey features:\n\n🤖 AI-powered symptom analysis\n🩺 Easy-to-understand health insights\n🚨 Risk/urgency guidance\n📋 Personalized next-step recommendations\n🔒 Privacy-conscious design\n📱 Responsive, modern interface",
+    "github_url": "https://github.com/irti-11/SEHAT_LINK",
+    "deployed_url": "sehat-link-r4rnl4bdq-irti-11s-projects.vercel.app",
+    "submitter": "Syed Irtiza Ali",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 50,
+    "name": "Jugaad-Code",
+    "description": "jugaad-code is a resilience layer for Claude Code built specifically for the realities of software development in Pakistan. Operating quietly in the background with zero external telemetry, it dynamically adapts developer workflows across four operational states (NORMAL, NETWORK DEGRADED, POWER UNSTABLE, and CRITICAL).\n\nIt detects sudden AC power cuts via hardware sensors to immediately trigger atomic git checkpoints before UPS/inverter batteries deplete; diagnoses international latency spikes across submarine cables (SMW4/AAE-1) to automatically reroute npm and pip to high-speed Asian mirrors; fingerprints local ISP quirks (PTCL, StormFiber, Nayatel, Jazz, Zong); and translates cryptic network errors into actionable Roman Urdu. It gives AI coding assistants the street-smart resilience Pakistani developers have used for decades.",
+    "github_url": "https://github.com/crankysmh47/Jugaad-Code",
+    "deployed_url": "https://crankysmh47.github.io/Jugaad-Code/",
+    "submitter": "Annan Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 51,
+    "name": "Roshan Registry",
+    "description": "Pakistan's booming solar market is bottlenecked by opaque, months-long net-metering approvals. Roshan Registry fixes this with a two-sided portal: applicants submit and track their application through a live 5-stage timeline, while DISCO staff review documents and advance approvals,  bringing transparency to a process that currently has none, and accelerating clean energy adoption.",
+    "github_url": "https://github.com/Hadiatahir527/roshan-solar-track.git",
+    "deployed_url": "https://roshan-solar-track.lovable.app/",
+    "submitter": "Hadia Tahir",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 52,
+    "name": "Bijli Update",
+    "description": "Bijli Update is a crowdsourced, real-time power outage tracker for Pakistan. Users select their city and area, then report with one tap whether their electricity just went out (\"Bijli Chali Gayi\") or came back (\"Bijli Aa Gayi\"). These reports feed a live dashboard showing outage activity by area, so anyone can instantly see if a power cut is isolated to their home, spreading across their neighborhood, or affecting the whole city — turning scattered WhatsApp-group chatter into one reliable, real-time signal.",
+    "github_url": "https://github.com/MuhammadHassaan06/bijli-update",
+    "deployed_url": "https://bijli-update-eta.vercel.app/",
+    "submitter": "Areeba Malik",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 53,
+    "name": "Idaaray-e-Aasra",
+    "description": "Idaaray-E-Aasra is a modern application designed to simplify household donations. It connects donors directly with local community needs, allowing families to donate surplus items and track contributions transparently.",
+    "github_url": "https://github.com/AyeshaQandeel/idaaray-e-aasra",
+    "deployed_url": "https://charity-hub--ayeshaqandeel08.replit.app/",
+    "submitter": "Ayesha Qandeel",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 54,
+    "name": "Information about Pakistan",
+    "description": "Check your knowledge about the interesting fact of Pakistan",
+    "github_url": "https://onecompiler.com/html#draft-amqd",
+    "deployed_url": "https://onecompiler.com/html#draft-amqd",
+    "submitter": "HAMZA SALEEM",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 55,
+    "name": "Bijli Bill Check",
+    "description": "Bijli Bill Check opens the black box of a Pakistani electricity bill. It\nrecomputes every line from NEPRA's residential tariff — slabs, fuel adjustment,\nelectricity duty, GST, PTV fee, income tax — then does what no other bill app\ndoes: it works backwards from the amount you were actually charged and names the\nsingle change that reproduces it, to the rupee. \"Your bill is only consistent\nwith 320 units, not the 301 printed on it.\"\n\nIt also finds the cliff: above 300 units the slab benefit is withdrawn and every\nunit is repriced, so one extra unit can cost Rs 3,579. It reconciles the two\nmeter readings printed on your bill, detects estimated readings, tells you\nwhether you should be on a Time-of-Use meter, and ends by generating an editable\ncomplaint and opening the real filing channels — the CCMS+ portal every DISCO\nruns, SMS 8118, your company's own WhatsApp line — then NEPRA and the Wafaqi\nMohtasib.\n\nWorks fully offline as an installable PWA, in English and Urdu, with no accounts\nand no data leaving your device. Zero dependencies, zero build step. 133 unit\ntests and 18 browser tests.",
+    "github_url": "https://github.com/Dev-UmairRehman/GDGC",
+    "deployed_url": "https://bijli-bill-check-pk.vercel.app",
+    "submitter": "Umair Rehman",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 56,
+    "name": "sheharsuno ai",
+    "description": "SheharSuno AI is a text, voice and photo first civic reporting platform built for Pakistan. It allows citizens to report blocked drains, garbage, potholes, broken streetlights, water leaks, and unsafe roads in English, Urdu, or Roman Urdu. AI transforms an everyday complaint into a structured report with issue category, priority level, clear next steps, and a bilingual formal complaint. The platform turns a citizen’s voice into actionable civic data and visualizes community issues through an easy to use dashboard. SheharSuno does not replace city authorities it helps communities communicate their problems more clearly, quickly, and effectively.",
+    "github_url": "https://github.com/faizanaauf/sheharsuno-ai",
+    "deployed_url": "sheharsuno-ai.vercel.app",
+    "submitter": "Muhammad Faizan Raza",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 57,
+    "name": "Faham (فہم) - Har English document, aap ki zaban mein — every English document, in your language.",
+    "description": "Faham is a web app that makes everyday English documents understandable for ordinary Pakistanis. Bills, bank letters, visa decisions, rent agreements, and traffic challans all arrive in English — but a large share of Pakistan reads Urdu or Roman-Urdu. So people miss due dates, pay late fees, or sign papers they don't fully understand. Faham fixes that.\n\nYou paste any document, pick a mode, and Faham explains it in simple Urdu, gives a Roman-Urdu version, and separates out the facts that actually matter: the amount, the deadline, the penalty, and what you must do next. It needs no login, works on a phone, and takes seconds.\n\nThe app has four modes:\n\nDocument — explains a bill, bank or legal notice in plain Urdu, with key facts as cards\nTranslate — English to Urdu\nRoman-Urdu to Nastaliq — turns text as people type it on phones into proper Urdu script\nSummarize — shortens long content into simple Urdu\nIt's built as a lightweight web app (Node.js + Gemini's free tier), mobile-first, and deployed live so anyone can use it immediately — including elderly parents who ask their kids to read every bill for them.",
+    "github_url": "https://github.com/maryamasifaziz/faham",
+    "deployed_url": "https://faham-rho.vercel.app/",
+    "submitter": "Maryam Asif",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 58,
+    "name": "Pakistan Climate Watch",
+    "description": "# 🇵🇰 Pakistan Climate Watch\n\nAn interactive AI-powered platform for understanding Pakistan's environmental and climate changes.\n\n## 🌐 Live Website\n\n👉 https://pakistan-climate-watch.vercel.app\n\n## 🚀 Features\n\n- Pakistan environmental challenges\n- Climate change awareness\n- Interactive data visualization\n- AI Climate Assistant\n- Responsive design",
+    "github_url": "github.com/imdadullah676/Pakistan-Climate-Watch/tree/main",
+    "deployed_url": "pakistan-climate-watch.vercel.app",
+    "submitter": "Imdad ullah",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 59,
+    "name": "Shaadi Budget",
+    "description": "A Pakistan-focused wedding budget planner for families who want a realistic view of wedding costs before bookings get out of hand.\n\nThe app turns a total budget, guest count, city, and selected events into an editable shaadi budget with per-guest calculations, overspending warnings, and what-if scenarios.",
+    "github_url": "https://github.com/AnilaAnilaN/chaiaurcodeproject",
+    "deployed_url": "https://chaiaurcodeproject.vercel.app/",
+    "submitter": "Anila Nawaz",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 60,
+    "name": "Pakistani Islamic Inheritance & Succession Law System",
+    "description": "Pakistani Legal Advisor and Islamic Inheritance Jurisprudence Calculator. The user will provide a list of surviving legal heirs and the total estate value (cash, property, assets) in Pakistan. Your task: Calculate the exact legal and Sharia-compliant share for every heir according to Pakistani succession law. Convert each fractional share into exact Pakistani Rupees (PKR) and property percentage. Provide a clear warning protecting the legal rights of female heirs under the Enforcement of Women's Property Rights Act. Outline the exact 4-step administrative procedure to obtain the Succession Certificate and transfer land titles at the relevant provincial authority (e.g., Punjab Land Records Authority).",
+    "github_url": "https://github.com/Suleman00/Ilm-al-faraid",
+    "deployed_url": "https://ilm-al-faraid.vercel.app/",
+    "submitter": "Muhammad Suleman Saeed Khan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 61,
+    "name": "Awaz-e-Mohalla",
+    "description": "Awaz-e-Mohalla is a community-driven platform that helps citizens report local issues like potholes, garbage, water leaks, and broken streetlights, while tracking their progress toward resolution. 🇵🇰",
+    "github_url": "https://github.com/Areej367/Awaz-e-Mohalla-new/blob/main/Awaz-e-Mohalla%20new.zip",
+    "deployed_url": "https://awaz-e-mohalla-new.vercel.app/",
+    "submitter": "Areej Maryam",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 62,
+    "name": "TrackPulse",
+    "description": "AI Weightloss Tracker Assist",
+    "github_url": "https://trackpulse.ai.studio",
+    "deployed_url": "https://trackpulse.ai.studio",
+    "submitter": "Muhammad Atif Ahmed",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 63,
+    "name": "Rahnuma",
+    "description": "Pakistan runs on paper that ordinary people cannot read. Bills, challans, lab reports, prescriptions and government notices decide what a family pays, takes and owes — and almost none of them are written to be understood. The cost is real: money paid that was never owed, medicine taken wrongly, deadlines missed, and complaints never filed because nobody knows the words.\n\nRahnuma — \"guide\" — is six tools for that gap:\n\n• Samajh — photograph any bill, challan, notice or form; get what it says, what you owe, and by when\n• Report — lab results explained in plain Urdu, never diagnosed\n• Nuskha — reads the doctor's handwriting, and says \"unclear, ask your pharmacist\" rather than guessing\n• Dawa Sahi — what a medicine is for, how it's taken, and whether the pharmacy charged above the price printed on the box\n• Shikayat — interviews you by voice, then writes a formal application addressed to the correct authority, downloadable as PDF or Word. It replaces the arzi nawees who sits outside every government office charging Rs 200 to word a complaint properly\n• Bijli Bachao — Pakistan's 200-unit protected-slab cliff, shown before the bill arrives instead of after\n\nEvery answer comes back in English, Urdu and Roman Urdu from a single request, and is read aloud automatically in a natural voice. You can speak instead of typing.\n\nBuilt with Next.js and Gemini for Pakistan @79, GDG Live Pakistan — Chai aur Code #1.",
+    "github_url": "https://github.com/saif-ullah-k/rahnuma",
+    "deployed_url": "rahnuma-mocha.vercel.app",
+    "submitter": "Saif Ullah",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 64,
+    "name": "Roti Rescue",
+    "description": "Roti Rescue is a web platform where restaurants/bakeries list their leftover food at discounted prices before closing time, and nearby users can call to reserve and pick it up.",
+    "github_url": "https://github.com/Mehak-Fatimaa/Roti-Rescue",
+    "deployed_url": "https://roti-rescue.ai.studio/",
+    "submitter": "Mehak Fatima",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 65,
+    "name": "Jashan Invites",
+    "description": "JashanInvite is a modern, bilingual (Urdu Nastaliq & English) digital invitation and real-time event management platform designed to replace traditional paper cards for weddings, birthdays, and parties. It allows hosts to craft stunning digital cards with customizable multi-day functions, set strict RSVP response deadlines, and track live guest responses (Attending, Maybe, Declined) alongside precise headcounts. Key capabilities include venue gate live camera QR code scanning for instant guest check-ins, 1-click high-resolution PNG card exports for WhatsApp stories, CSV bulk guest list imports, ambient background wedding melodies, a couple photo gallery, and an interactive user guide—all securely synchronized in real-time with Firebase Firestore.",
+    "github_url": "https://github.com/saqibh379/JashanInvites",
+    "deployed_url": "https://invitation-application-c41e3.web.app/",
+    "submitter": "Saqib Hussain",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 66,
+    "name": "NightCode3",
+    "description": "# NightCode\n\n**NightCode** is an open-source, full-stack AI coding assistant designed to give developers an agentic coding environment that can understand, modify, test, and interact with real codebases. It runs locally, supports multiple AI providers, and provides an extensible tool and MCP architecture for giving AI agents real capabilities.\n\n## ✨ Key Features\n\n* 🤖 **Agentic AI Coding** — An AI agent capable of reasoning through coding tasks and working directly with your project.\n* 🔌 **Multi-Provider AI** — Supports **14 AI providers**, including OpenAI, Google Gemini, Groq, OpenRouter, DeepSeek, xAI, Ollama, Cloudflare, and more.\n* 🔄 **Automatic Provider Failover** — Health monitoring, rate-limit tracking, and provider/key rotation help keep the agent running when a provider becomes unavailable.\n* 🛠️ **22 Built-in Tools** — File reading, writing, editing, deletion, directory management, code search, grep, shell execution, testing, task tracking, delegation, artifacts, image generation, and more.\n* 🧠 **Smart Context Management** — Automatic context compaction, token tracking, and sliding-window decisions help prevent context overflow while preserving important information.\n* 🔗 **MCP Support** — Extend the agent with custom **Model Context Protocol (MCP)** servers for databases, APIs, browser automation, and other external capabilities.\n* 🧩 **Skills System** — Add specialized instructions and capabilities through reusable skills that can be enabled globally or activated per message.\n* 🎨 **Rich Artifacts** — Render and interact with code, Markdown, HTML, SVG, Mermaid diagrams, and mathematical expressions directly inside the interface.\n* 🖼️ **AI Image Generation** — Generate images through supported AI models directly from the agent.\n* 👥 **Sub-Agent Delegation** — Delegate specialized tasks to other agents for more complex workflows.\n* 🧪 **Testing & Error Detection** — Built-in tools for running tests and retrieving project/build errors.\n* 📋 **Task & Plan Management** — Supports structured task tracking and plan completion for longer coding workflows.\n* 💾 **Agent Memory** — Retrieve stored memories to provide better context across interactions.\n* ⚡ **Event-Driven Engine** — A modern engine architecture for streaming responses, tool dispatch, verification, context management, caching, and telemetry.\n* 🖥️ **Local-First Development** — Designed to run locally while allowing developers to bring their own AI provider API keys.\n* 🎛️ **Customizable Workspace** — Configure AI providers, models, temperature, token limits, themes, and other settings from the application.\n\n## 🏗️ Architecture\n\nNightCode uses an event-driven agent architecture:\n\n**User → Agent Engine → AI Provider → Tool Dispatch → Tool Execution → Verification → Context Manager → Agent**\n\nThis allows the agent to continuously reason, use tools, inspect their results, and continue working until the requested task is completed.\n\n## 🧰 Tech Stack\n\n* **Next.js**\n* **React**\n* **TypeScript**\n* **Tailwind CSS**\n* **shadcn/ui**\n* **AI SDK / Multi-provider AI**\n* **MCP (Model Context Protocol)**\n* **SQLite**\n* **Event-driven agent engine**\n\nNightCode is built to be more than a simple AI chatbot — it is an extensible **AI development environment** where models can actually interact with code, tools, files, tests, external services, and developer workflows.",
+    "github_url": "https://github.com/CodewithMubasher/NightCode3",
+    "deployed_url": "https://github.com/CodewithMubasher/NightCode3",
+    "submitter": "Mubasher developer",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 67,
+    "name": "Azaadi-quest",
+    "description": "Azadi Quest is an interactive single-page web application built to celebrate Pakistan's Independence Day (14th of August) through a creative blend of education, storytelling, and modern AI/web technologies. It frames historical learning as a gamified product experience featuring two core persona-driven guides: Khala (the warm, tea-time quizmaster) and Quaid-e-Azam (the historical statesman delivering the final verdict) and in end also generates a digital certificate to post on social media which makes users/students engaged on platform and share their achievements.",
+    "github_url": "https://github.com/Arisha004/Azadi-quest",
+    "deployed_url": "https://cool-fudge-ce274d.netlify.app/",
+    "submitter": "Arisha mumtaz",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 68,
+    "name": "HunarHisaab",
+    "description": "HunarHisaab is a Pakistan-focused web app for home-based women workers. It turns messy WhatsApp orders into organized business records, calculates fair pricing and profit, and builds a confirmed income/work history.",
+    "github_url": "https://github.com/hassanali-ko/HunarHisaab",
+    "deployed_url": "https://hunar-hisaab.vercel.app/",
+    "submitter": "Hassan Ali",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 69,
+    "name": "Fix Meri Gali",
+    "description": "\"Fix Meri Gali\" — an AI-powered civic complaint reporter where citizens report potholes, broken streetlights, garbage, and open manholes with a photo; Gemini auto-classifies the issue and drafts a formal complaint letter to the right department.",
+    "github_url": "https://github.com/hadeedawan000-design/Fix_Meri_Gali",
+    "deployed_url": "http://localhost:5174/",
+    "submitter": "Taseer Fatima",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 70,
+    "name": "PriceLens",
+    "description": "PriceLens 🇵🇰 is a simple platform that helps citizens and the government keep track of market prices in Pakistan. People can quickly report the price they paid for daily-use items (such as sugar, flour, rice, milk, cooking oil, tea, lentils, potatoes, onions, and tomatoes). PriceLens compares the reported price with the reference price and shows if there is a big difference. For example, if sugar’s reference price is Rs. 165/kg but people are paying Rs. 205/kg, the system shows a +24.2% difference and highlights that market for review. The main idea is simple: use information from ordinary citizens to help the government understand what is really happening in the market.",
+    "github_url": "https://github.com/mhamzakaleem/pricelens-pk/",
+    "deployed_url": "https://pricelens-pk.lovable.app",
+    "submitter": "MUHAMMAD HAMZA KALEEM",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 71,
+    "name": "Pakistan Climate Watch",
+    "description": "# 🇵🇰 Pakistan Climate Watch\n\nAn interactive AI-powered platform for understanding Pakistan's environmental and climate changes.\n\n## 🌐 Live Website\n\n👉 https://pakistan-climate-watch.vercel.app\n\n## 🚀 Features\n\n- Pakistan environmental challenges\n- Climate change awareness\n- Interactive data visualization\n- AI Climate Assistant\n- Responsive design",
+    "github_url": "https://github.com/imdadullah676/Pakistan-Climate-Watch/tree/main",
+    "deployed_url": "https://pakistan-climate-watch.vercel.app/",
+    "submitter": "Imdad ullah",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 72,
+    "name": "LIGMA - Let's Integrate Groups, Manage Anything",
+    "description": "It’s a smart web app where teams collaborate on a live canvas, and AI automatically turns their ideas into clear, actionable tasks to streamline execution.",
+    "github_url": "https://github.com/kAmmarah/app",
+    "deployed_url": "app-vzy5.vercel.app/",
+    "submitter": "Ammara Dawoood",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 73,
+    "name": "person extension",
+    "description": "Never made an extension before , so i just made one. Turns out its not that hard. It just gives me today and tomorrows weather details and summary for Islamabad and Topi the places i reside in",
+    "github_url": "https://github.com/Azhar20afif/islamabad-topi-weather",
+    "deployed_url": "https://azhar20afif.github.io/islamabad-topi-weather/",
+    "submitter": "Azhar",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 74,
+    "name": "PAKVERIFY",
+    "description": "PAKVERIFY is an AI-assisted claim verification tool designed for Pakistani digital communities. It helps users check viral claims against trusted evidence and gives simple explanations in Roman Urdu before they share information.",
+    "github_url": "https://github.com/areebamuhammad/pakverify",
+    "deployed_url": "https://pakverify.vercel.app/,         https://aistudio.google.com/apps/d2025567-6fb5-4ef3-b46a-10485598bcc5?showAssistant=true&showPreview=true&project=internhub-ai",
+    "submitter": "Areeba Muhammad",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 75,
+    "name": "Rag-e-jan",
+    "description": "Rag-e-Jaan is a real-time platform where anyone can post an urgent blood request in seconds — blood group, hospital, city, urgency level, and a contact number — and it instantly appears on a live, filterable board that potential donors can search by blood group and city. No accounts, no friction, no scrolling through irrelevant posts. Just a direct line between someone who needs blood and someone nearby who can give it.\n\nHow It Works\nPost an SOS — Fill a simple form with blood group, hospital/city, urgency, and contact info.\nLive board — The request appears instantly, color-coded by urgency (critical / within 24hrs / within days).\nFilter & find — Donors filter by their blood group and city to see only relevant, nearby requests.\nDirect response — One tap to call — no messaging system, no delay.\nMark as fulfilled — Requesters close out their post once help arrives, keeping the board clean and current.\nWhy It Matters\n\nBlood donation in Pakistan doesn't suffer from a lack of willing donors — it suffers from a matching problem: the right donor almost never sees the right request at the right time. Rag-e-Jaan solves that gap directly, with zero cost, zero login barrier, and a design built for genuine urgency — because when it comes to blood, every minute counts",
+    "github_url": "i am stuck in deployment phase and it takes 10-20 minutes",
+    "deployed_url": "i am stuck in deployment phase and it takes 10-20 minutes so when i completed i will upload the link",
+    "submitter": "Muhammad Anas Qureshi",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 76,
+    "name": "Kaaghaz-Saathi",
+    "description": "Kaghaz Saathi AI is a multilingual government-document preparation assistant built for Pakistani citizens. It helps users understand what documents and preparation steps may be required before visiting an office for services such as domicile, CNIC renewal, passport applications, learner driving licences, and scholarships.\nUsers can ask questions in English, Urdu, or Roman Urdu. The platform provides service-specific checklists, city-aware guidance, next steps, common mistakes, and a readiness score showing how prepared the user is. Users can select the documents they already have, share their readiness status through WhatsApp, and print a checklist before visiting an office.\nKaghaz Saathi includes an offline smart mode using a local knowledge base and can optionally use Gemini AI to provide more natural and personalized answers. It does not replace official government departments or guarantee application approval. Instead, it acts as a simple preparation layer that helps citizens avoid unnecessary visits, missing documents, confusion, and dependence on informal agents.\nThe platform is designed with a mobile-first, privacy-conscious, and low-digital-literacy-friendly interface for Pakistani users.",
+    "github_url": "https://github.com/RabbiaSaleh/Kaaghaz-Saathi",
+    "deployed_url": "https://rabbiasaleh.github.io/Kaaghaz-Saathi/",
+    "submitter": "Rabbia Saleh",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 77,
+    "name": "GapWise",
+    "description": "Find the gap. Fix the foundation.\n\nGapWise uses AI to identify the foundational learning gaps behind a student's current learning difficulty and gives teachers actionable, student-specific recommendations.",
+    "github_url": "https://github.com/asharib-nomani/gapwise",
+    "deployed_url": "https://gapwise-eight.vercel.app/",
+    "submitter": "Asharib Nomani",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 78,
+    "name": "Mera Haq",
+    "description": "Mera Haq is a digital assistant that provide information about Pakistani Law and generate report for complaint.",
+    "github_url": "https://github.com/saqibahmadsiddiqui/mera-haq",
+    "deployed_url": "https://ai.studio/apps/10cc060b-90aa-4ef2-aef4-34eb74f96918",
+    "submitter": "Saqib Ahmad Siddiqui",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 79,
+    "name": "Med Verify",
+    "description": "Fake Medicine Risk Verifier",
+    "github_url": "https://github.com/AayeshaBibi/MedVerify-AI-AI-Powered-Fake-Medicine-Risk-Verifier-",
+    "deployed_url": "https://medverify-ai.ai.studio",
+    "submitter": "Ayesha Bibi",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 80,
+    "name": "Student Stream",
+    "description": "Student Stream is a free web application designed to help university students track their daily and monthly expenses. It allows students to easily record their costs like hostel rent, internet bills, and daily food. The app sends automatic email reminders before a payment is due so students never miss a deadline. It also uses Google Gemini AI to analyze their spending habits and give them smart, personalized advice on how to save their pocket money.",
+    "github_url": "https://github.com/1xcoder-1/student_stream",
+    "deployed_url": "https://student-stream.vercel.app/",
+    "submitter": "Abdullah Ramzan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 81,
+    "name": "Swipe to Barter",
+    "description": "Swipe to Barter is a zero-cash peer-to-peer barter marketplace where users list items, discover local offers, swipe to trade, match on mutual interest, chat in real time, and manage trades from start to completion.",
+    "github_url": "https://github.com/waqas60/swipe-to-barter",
+    "deployed_url": "https://swipe-to-barter-nine.vercel.app/",
+    "submitter": "Muhammad Waqas",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 82,
+    "name": "Ustaad's Eye (استاد کی نظر) — AI Dropout Risk Early Warning System",
+    "description": "Ustaad's Eye is an AI-powered Progressive Web App (PWA) designed for Pakistani government school teachers to prevent student dropouts before they happen. \n\nBy connecting the dots across three silent early warning indicators — thinning attendance, quiet score drops, and delayed fee payments — our system calculates a real-time multidimensional risk score (High/Medium/Low) for every student. Powered by Google's Gemini Flash AI, the app automatically drafts personalized, empathetic Urdu/English parent SMS alerts, counselor reports, and meeting agendas in seconds. Built as an offline-first PWA with local fallback logic, it is accessible even on low-cost smartphones in rural areas with intermittent internet connectivity.",
+    "github_url": "https://github.com/JawadAhmed-Pro/Ustaad-s-Eye",
+    "deployed_url": "https://ustaad-s-eye.onrender.com/",
+    "submitter": "Jawad Ahmed",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 83,
+    "name": "BazaarCheck",
+    "description": "BazaarCheck is a community-powered grocery price intelligence platform for Pakistan. It helps shoppers check whether they're paying a fair price in their local area or not by comparing prices, also while contributing to prices. It supports location-aware pricing, item-specific units, bilingual English/Urdu access, and a live community price feed.",
+    "github_url": "https://github.com/abdulrehman11tariq/BazaarCheck",
+    "deployed_url": "https://bazaar-check.vercel.app/",
+    "submitter": "Abdul Rehman Tariq",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 84,
+    "name": "Waris",
+    "description": "Waris  is an end-to-end Islamic inheritance and legal succession platform tailored for Pakistani families. It features an algorithmic rules engine that calculates exact Quranic shares under Sunni and Shia jurisprudence, handling complex edge cases like Awl, Radd, and Section 4 MFLO (orphaned grandchildren). Beyond calculations, it automatically generates court-ready legal affidavits formatted for Rs. 100 stamp paper under the NADRA Succession Act 2021. The platform also includes an interactive family tree visualizer, live gold/silver asset partitioners, and a nationwide directory of 50+ NADRA Succession Centers to guide users through provincial land mutation.",
+    "github_url": "https://github.com/tajmomin/waris-app",
+    "deployed_url": "https://waris-app.vercel.app?_vercel_share=SYeewqFrGX9m3UMzjfrjovaC9mhRI2gx",
+    "submitter": "Momin Taj",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 85,
+    "name": "Darzi Khata — درزی کھاتہ",
+    "description": "Darzi Khata is a complete tailor shop management app built for Pakistani darzi shops. The owner can create their shop, manage orders with full measurements (kameez, shalwar, collar type, cuffs, pockets), track payments and balances, assign work to karigars, and chat with them per order — all inside the app. Karigars log in separately and see only their assigned orders; they can update status (Pending → Silai → Tayar) and reply to the owner's messages. The app is fully bilingual (English + Urdu/Nastaliq), works offline with no backend needed, and includes a team invite system so owners can onboard karigars via WhatsApp.",
+    "github_url": "https://github.com/Saadia-Asghar/darzi-khata",
+    "deployed_url": "https://mobile-first-web-u2024550.replit.app/",
+    "submitter": "Saadia Asghar",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 86,
+    "name": "Knowing your electric consumption",
+    "description": "Bijli bachao",
+    "github_url": "https://onecompiler.com/html#draft-fwp2",
+    "deployed_url": "https://onecompiler.com/html#draft-fwp2",
+    "submitter": "Hamza saleem",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 87,
+    "name": "PakRent",
+    "description": "In this website you can rent out anything you want... for example if anything you have which your not using you can rent it out on this website and other people who cant afford buying a new one can rent things what they need from here",
+    "github_url": "https://github.com/jsrayanyaqoob/PakRent",
+    "deployed_url": "https://pakrent.vercel.app/",
+    "submitter": "Rayan Yaqoob",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 88,
+    "name": "Dastan Ai story teller",
+    "description": "This project is a story teller to rewind the stories of ancestors who built this nation by their sacrifices.",
+    "github_url": "https://github.com/Farhan9812456/Dastaan",
+    "deployed_url": "https://github.com/Farhan9812456/Dastaan",
+    "submitter": "Muhammad Farhan Ameen",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 89,
+    "name": "AllEasy-AI",
+    "description": "AllEasy-AI Is Made For Freelancers specifically for Pakistanis, Because Pakistani Freelancers are mostly Lazy and hate to find Clients then build the Website, AllEasy-AI Makes all the process of Web Dev Freelancers Automated!",
+    "github_url": "https://github.com/owaan-creations/AllEasyAI",
+    "deployed_url": "https://alleasy-ai.pages.dev",
+    "submitter": "M. AYAN OWAIS",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 90,
+    "name": "Sahulat — 79 saal, ab jawab milega",
+    "description": "Sahulat ek citizen helpdesk hai jahan aap Roman Urdu mein apna sawaal likhte hain aur seedha jawab milta hai  koi form, koi login, koi agent nahi. Chaar modules ek hi search box se chalte hain: Kaghaz (sarkari process  documents, official fee, kitne din), Haq (apke qanooni huqooq aur pehla qadam), Wazifa (aapke marks aur haalat ke hisaab se scholarships + ready darkhwast), aur Solar (bijli bill se solar ka payback hisaab). Ahem baat: sarkari fees aur documents verified dataset se aate hain, AI se generate nahi hote. AI sirf legal rights samjhane ke liye use hota hai, aur uske bina bhi app poora chalta hai.",
+    "github_url": "https://github.com/msaimraz/sahulat",
+    "deployed_url": "https://sahulat-delta.vercel.app",
+    "submitter": "M Saim Raza",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 91,
+    "name": "Fin Twin",
+    "description": "Your AI financial counterpart — dump raw expenses and lent money in conversational language, track cashflow with deterministic precision, and recover money owed to you without awkward texts.",
+    "github_url": "https://github.com/oye-hunter/fin-twin",
+    "deployed_url": "https://fin-twin-web.vercel.app/",
+    "submitter": "Hassan Mughal",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 92,
+    "name": "Haqeeqat",
+    "description": "AI detection",
+    "github_url": "https://ai.studio/apps/01e30b80-cdd2-472c-81d6-8a1d5347d63c",
+    "deployed_url": "https://ai.studio/apps/01e30b80-cdd2-472c-81d6-8a1d5347d63c",
+    "submitter": "Quratulain",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 93,
+    "name": "Boardroom AI",
+    "description": "BoardroomAI is a multilingual AI consultation platform that understands Urdu, Roman Urdu, and regional languages to help people make informed life and business decisions. Instead of providing a single AI response, multiple specialized AI experts analyze a problem from different perspectives, debate risks and opportunities, and produce a transparent recommendation with reasoning, confidence scores, and an actionable plan. The platform makes expert-level guidance accessible to everyone in their native language.",
+    "github_url": "https://github.com/harisawan27/chai_aur_code",
+    "deployed_url": "https://boardroom-ai-duologic.vercel.app/",
+    "submitter": "Muhammad Haris Awan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 94,
+    "name": "Ustaad-connect",
+    "description": "Ustaad Connect is a smart volunteer tutoring platform that connects people willing to teach with students and communities that need educational support across Pakistan. Volunteers can discover where tutoring help is needed, create a profile based on their subjects, availability, language, teaching mode, and education level, and receive relevant opportunities through a smart matching system.\n\nThe platform visualizes educational needs by district, helps volunteers find meaningful tutoring opportunities, and tracks their contribution and impact. Our goal is to turn unused knowledge and volunteer time into accessible learning opportunities for children and underserved communities.",
+    "github_url": "https://github.com/Saifiqbal786/ustaad-connect-launch",
+    "deployed_url": "https://saif-ustaad-connect.lovable.app",
+    "submitter": "Muhammad Saif Iqbal",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 95,
+    "name": "Roz Ka Hisab",
+    "description": "Har ghar ki kahani same hai.\n\nAmmi subah doodh lene jati hain, pata chalta hai kal se 20 rupay mehenga. Bazaar se daal, masalay, atta lete hain, har dukan ka apna rate. Aur mahine ke end pe jab KE ka bill aata hai - Rs. 60,000 - samajh hi nahi aata itna bill bana kaise?\n\n79 saal ho gaye Pakistan ko, lekin roz ka hisab abhi tak barabar nahi hua.\n\nRoz Ka Hisab is for that exact moment.\n\nIt's not another price list app. It's your daily expense protector, built for how Pakistanis actually live.\n\nWhat it does:\n\n1. Sahi Daam - سہی دام\nYour daily kiryana finally has one true price. Check official DC rates for the things you actually buy daily - Doodh, Daal Moong/Masoor, Masalay, Atta, Cheeni, Chawal, Oil. See Official Rate vs Market Rate in simple Urdu, Roman Urdu, or English. Scan a dukan's rate board with your camera, or just say \"daal ka rate kya hai?\" No more arguing. If one shop refuses, the app shows you 3 nearby shops that are verified fair by your own neighbors.\n\n2. Sahi Bill - سہی بل\nThat 60,000 bill finally makes sense. Upload your electricity or gas bill, and Roz Ka Hisab translates it into simple Urdu. No jargon. Just - \"Aapne 320 units use kiye, 200 ke baad mehenga slab lagta hai, is liye bill zyada hai. AC 1 ghanta kam chalao to agle mahine Rs. 1,800 bachega.\"",
+    "github_url": "https://github.com/Ebaad-777/roz-ka-hisab",
+    "deployed_url": "https://roz-ka-hisab-quut-red.vercel.app/",
+    "submitter": "Muhammad Ebaad",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 96,
+    "name": "KhanaConnect Pakistan",
+    "description": "Description:\nPakistan faces a dual crisis; mWeassive food waste from weddings, restaurants, and households, alongside rising food insecurity. KhanaConnect PK is a hyper-local, high-urgency web platform designed to solve this frictionlessly without complex sign-up walls.\nKey Features:\nFrictionless Donor Portal: Restaurants, wedding halls, and homes can instantly list surplus food (including portions and contact details) with zero login friction.\nVerified Volunteer Network: To ensure safe and organized distribution, volunteers can log in using pre-approved IDs (or apply to become a volunteer with admin verification).\nRole-Based Claiming: Only verified volunteers can claim listed food to coordinate pickups, preventing spam and ensuring accountability.\nTech Stack:\nHTML, Tailwind CSS, Alpine.js (Lightweight, fast, and instantly deployed for emergency usability).",
+    "github_url": "https://github.com/mnayab2/khana-connect-pakistan",
+    "deployed_url": "https://khanaconnect-pakistan.ai.studio",
+    "submitter": "Maria Nayab",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 97,
+    "name": "requesT",
+    "description": "requesT (pronounced requestee) is an app, which allows users to request a task completion, for example a user might have a task such as \"I need a leaky sink fixed\" or \"i need my air conditioner checked\", and the only way they can find them is through referrals or through google map's review or through manually finding the individual shops for their requested tasks.",
+    "github_url": "https://github.com/iamsami101/requestee",
+    "deployed_url": "on github as apk",
+    "submitter": "Muhammad Sami",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 98,
+    "name": "Roshni-Power Outage Scheduler",
+    "description": "a fullstack scheduler app",
+    "github_url": "https://github.com/fizzah09/roshni",
+    "deployed_url": "https://roshni-r0f44z49j-fizzah09s-projects.vercel.app/",
+    "submitter": "fizzah abdullah",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 99,
+    "name": "Tahafuz",
+    "description": "Tahafuz is a personal safety application designed to help users handle emergencies and uncomfortable situations with confidence. It features a quick-access emergency SOS button that automatically shares your live location via automated messages and emails with your saved trusted contacts. To help you safely exit awkward or risky environments, the app includes a realistic fake phone call simulator complete with a ringtone and timer. Additionally, it features a clever disguise mode that turns the interface into a fully functioning calculator, ensuring your safety tools stay hidden until you need them.",
+    "github_url": "https://github.com/Abdrash12/Tahafuz-App",
+    "deployed_url": "https://tahafuz-app.onrender.com/",
+    "submitter": "Abdullah Rashid",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 100,
+    "name": "Sindh Virsa - Traditional Crafts Explorer",
+    "description": "Sindh Virsa is an interactive web application that showcases and preserves the rich cultural heritage of traditional Sindhi crafts. The platform features a comprehensive catalog of authentic handicrafts including Ajrak, Rilli, Kashi, Khussa, Susi embroidery, and other artisanal works from various districts of Sindh. Users can explore crafts through high-quality images and decorative patterns, filter by type and district, search for specific crafts, and learn about their cultural significance, history, and the stories behind each craft form.",
+    "github_url": "https://github.com/abubakarp789/sindh-virsa",
+    "deployed_url": "https://sindh-virsa.vercel.app/",
+    "submitter": "Abu Bakar",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 101,
+    "name": "WattKar",
+    "description": "WattKar is an AI-assisted household power compatibility web app designed around a common Pakistani problem: figuring out whether a UPS or inverter can safely support a selected set of appliances.\n\nInstead of forcing normal users to understand watts, VA, surge load, battery capacity, and safety margins, WattKar turns equipment specifications into a simple answer.",
+    "github_url": "https://github.com/Nathan-Asif/wattkar",
+    "deployed_url": "https://wattkar.vercel.app/",
+    "submitter": "Nathan Asif",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 102,
+    "name": "shehri-awaz",
+    "description": "ShehriAwaz — A civic reporting platform for Pakistan where citizens can report local issues, track their status, discover similar reports, and stay informed about public-service and civic news.",
+    "github_url": "https://github.com/umerforge/shehri-awaz",
+    "deployed_url": "https://shehri-awaz.vercel.app/",
+    "submitter": "Umer Tariq",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 103,
+    "name": "ZakatWise 🕌  “Know your Nisab. Understand your Zakat.”",
+    "description": "ZakatWise is a user-friendly web-based Zakat calculator designed to help people estimate their Zakat obligation with greater clarity. Users can enter cash, bank balances, savings, gold, silver, business assets, and applicable deductions, select a Nisab method, and receive a transparent estimate of their Zakat. The platform also includes a dedicated “Zakat on My Money” feature to help users understand whether their cash and savings may meet the Nisab threshold and what their estimated Zakat could be.",
+    "github_url": "https://github.com/nimra23-cyber/zakat-clarity-calc",
+    "deployed_url": "https://zakat-clarity-calc.lovable.app/",
+    "submitter": "Nimra Tariq",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 104,
+    "name": "phishguard",
+    "description": "PhishGuard PK is a Pakistan-focused fake website and phishing URL detection system. It analyzes website links, identifies suspicious patterns and possible impersonation of Pakistani banks, wallets, e-commerce platforms, and other trusted services, then gives the user a risk score, verdict, and explanation. The project will first be developed as a web application and later extended into a browser extension that can warn users about potentially dangerous websites while browsing.",
+    "github_url": "https://github.com/Abdul-Rehman7826/GDG.git",
+    "deployed_url": "https://phishguard-backend-eight.vercel.app/",
+    "submitter": "Abdul Rehman",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 105,
+    "name": "Virsa AI",
+    "description": "VIRSA is an AI-powered heritage marketplace that bridges Pakistan’s master artisans with global buyers through automated Roman Urdu branding tools and interactive cultural storytelling.",
+    "github_url": "https://github.com/Sobia-Kamali/Virsa-AI",
+    "deployed_url": "https://virsa-ai.vercel.app/",
+    "submitter": "Sobia Kamali",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 106,
+    "name": "MeriNeki",
+    "description": "no time for it sorry",
+    "github_url": "https://github.com/chandiohussain007/Meri.Neki",
+    "deployed_url": "https://merineki.vercel.app/",
+    "submitter": "Hussain",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 107,
+    "name": "AzadiPath",
+    "description": "AzadiPath is an AI agent that builds a single life roadmap for young Pakistanis instead of separate, disconnected advice. Most students in Pakistan get scattered guidance. \n\n- A teacher tells them what to study. \n- A relative tells them where to invest. \n- A Youube video tells them how to apply abroad. \n  None of these connect. \n\nAzadiPath merges career planning, education pathways, and financial growth into one system that shows a user what their next twenty years could look like based on choices they make today.\n\nThe agent takes basic inputs like age, target field, and monthly savings capacity, then generates a path that links three things together. \n\nFirst, an education and career route, for example which degree, which local internship, which scholarship, and which company to target. \n\nSecond, a financial growth model, showing how a small monthly investment in the local stock market compounds over the years. \n\nThird, a timeline that shows how starting five years earlier changes the outcome dramatically.",
+    "github_url": "https://github.com/safwanahmadsaffi/AzafiPath",
+    "deployed_url": "https://3000-ihktpwdupr6rf337byhug-96669994.us2.manus.computer/",
+    "submitter": "Muhammad Safwan Ahmad Saffi",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 108,
+    "name": "Pakistan Youth Voices",
+    "description": "Pakistan Youth Voices 🇵🇰 is an interactive civic platform built to amplify the voices of Pakistani youth. It brings together major issues such as education, employment, technology, healthcare, transport, internet access, harassment, and abuse in one engaging digital experience. The project combines modern frontend design with Pakistan’s provincial cultures and Independence Day theme to create a platform that is not just visually engaging, but focused on representation, awareness, and youth-driven change.",
+    "github_url": "https://github.com/Iqra-A7/pakistan-youth-voices",
+    "deployed_url": "https://pakistan-youth-voices.vercel.app/",
+    "submitter": "Iqra Arain",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 109,
+    "name": "Munsif - Price Tracker app",
+    "description": "Its is an MVP app which helps users verify and report fair pricing within seconds, the data is dummy because there is no current option to feed real data",
+    "github_url": "https://github.com/mhasan-exe/munsif-price-tracker",
+    "deployed_url": ",,,",
+    "submitter": "M Hasan",
+    "episode": "Episode 1",
+    "created_at": "2026-08-25 22:33:26"
+  }
+]

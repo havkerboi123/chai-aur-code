@@ -1,5 +1,5 @@
-import { useEffect, useMemo, useState } from 'react';
-import { fetchProjects, type Project } from './api';
+import { useMemo, useState } from 'react';
+import { getProjects, type Project } from './api';
 import './App.css';
 
 function ProjectCard({ project }: { project: Project }) {
@@ -23,17 +23,8 @@ function ProjectCard({ project }: { project: Project }) {
 }
 
 export default function App() {
-  const [projects, setProjects] = useState<Project[]>([]);
+  const [projects] = useState<Project[]>(getProjects);
   const [query, setQuery] = useState('');
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    fetchProjects()
-      .then(setProjects)
-      .catch(() => setError('Could not reach the backend. Is it running?'))
-      .finally(() => setLoading(false));
-  }, []);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -58,8 +49,8 @@ export default function App() {
           planning and actually ship something cool.
         </p>
         <p className="hero-sub">
-          {projects.length > 0 ? projects.length : '100'} projects from the community, built and
-          submitted for episode one. Have a look around.
+          {projects.length} projects from the community, built and submitted for episode one.
+          Have a look around.
         </p>
         <input
           className="search"
@@ -72,12 +63,8 @@ export default function App() {
 
       <main className="content">
         <h2 className="section-heading">Episode 1: Projects</h2>
-        {loading && <p className="state-msg">Loading projects…</p>}
-        {error && <p className="state-msg state-error">{error}</p>}
-        {!loading && !error && filtered.length === 0 && (
-          <p className="state-msg">Nothing matches "{query}".</p>
-        )}
-        {!loading && !error && filtered.length > 0 && (
+        {filtered.length === 0 && <p className="state-msg">Nothing matches "{query}".</p>}
+        {filtered.length > 0 && (
           <div className="grid">
             {filtered.map((p) => (
               <ProjectCard key={p.id} project={p} />

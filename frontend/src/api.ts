@@ -1,4 +1,4 @@
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+import projectsData from './data/projects.json';
 
 export interface Project {
   id: number;
@@ -11,8 +11,6 @@ export interface Project {
   created_at: string;
 }
 
-export async function fetchProjects(): Promise<Project[]> {
-  const res = await fetch(`${API_URL}/api/projects`);
-  if (!res.ok) throw new Error('Failed to load projects');
-  return res.json();
+export function getProjects(): Project[] {
+  return projectsData as Project[];
 }
