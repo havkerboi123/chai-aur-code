@@ -22,6 +22,11 @@ function ProjectCard({ project }: { project: Project }) {
   );
 }
 
+function episodeNumber(episode: string): number {
+  const match = episode.match(/(\d+)/);
+  return match ? parseInt(match[1], 10) : 0;
+}
+
 export default function App() {
   const [projects] = useState<Project[]>(getProjects);
   const [query, setQuery] = useState('');
@@ -37,6 +42,18 @@ export default function App() {
     );
   }, [projects, query]);
 
+  const episodes = useMemo(() => {
+    const groups = new Map<string, Project[]>();
+    for (const p of filtered) {
+      const list = groups.get(p.episode) ?? [];
+      list.push(p);
+      groups.set(p.episode, list);
+    }
+    return Array.from(groups.entries()).sort(
+      (a, b) => episodeNumber(b[0]) - episodeNumber(a[0]),
+    );
+  }, [filtered]);
+
   return (
     <div className="page">
       <header className="hero">
@@ -49,8 +66,8 @@ export default function App() {
           planning and actually ship something cool.
         </p>
         <p className="hero-sub">
-          {projects.length} projects from the community, built and submitted for episode one.
-          Have a look around.
+          {projects.length} projects from the community, built and submitted across every
+          episode. Have a look around.
         </p>
         <input
           className="search"
@@ -62,18 +79,20 @@ export default function App() {
       </header>
 
       <main className="content">
-        <h2 className="section-heading">Episode 1: Projects</h2>
-        {filtered.length === 0 && <p className="state-msg">Nothing matches "{query}".</p>}
-        {filtered.length > 0 && (
-          <div className="grid">
-            {filtered.map((p) => (
-              <ProjectCard key={p.id} project={p} />
-            ))}
-          </div>
-        )}
-
-        <h2 className="section-heading section-heading-muted">Episode 2: Coming soon</h2>
-        <p className="coming-soon">Submissions aren't open yet. Check back after the next meetup.</p>
+        {episodes.length === 0 && <p className="state-msg">Nothing matches "{query}".</p>}
+        {episodes.map(([episode, episodeProjects]) => (
+          <section className="episode-section" key={episode}>
+            <h2 className="section-heading">
+              {episode}
+              <span className="section-count">{episodeProjects.length} projects</span>
+            </h2>
+            <div className="grid">
+              {episodeProjects.map((p) => (
+                <ProjectCard key={p.id} project={p} />
+              ))}
+            </div>
+          </section>
+        ))}
       </main>
 
       <footer className="footer">GDG Live Pakistan · Chai aur Code</footer>

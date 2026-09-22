@@ -1028,5 +1028,285 @@
     "submitter": "M Hasan",
     "episode": "Episode 1",
     "created_at": "2026-08-25 22:33:26"
+  },
+  {
+    "id": 110,
+    "name": "Stolen Car Detection System",
+    "description": "This project is an AI-based system that monitors live CCTV footage to automatically detect stolen vehicles. It uses a YOLOv8 model to detect vehicles and read number plates in real time, which are then sent through a FastAPI backend to be matched against a stolen vehicle database stored in Supabase. When a match is found, the Google Gemini API generates a clear, human-readable alert, which is displayed on a real-time dashboard built with Next.js. The project combines computer vision, API integration, database management, and full-stack development into a single end-to-end system, giving hands-on experience of how a real-world AI product is actually built and connected together.",
+    "github_url": "https://github.com/asim143-as/Stolen-Car-Detector",
+    "deployed_url": null,
+    "submitter": "Atika Emaan",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:03:14"
+  },
+  {
+    "id": 111,
+    "name": "Crickhub - Cricket Scorer App",
+    "description": "Crickhub - Cricket Scorer App  is a Professional Cricket Scoring App To manage Local Cricket Matches  And Series Management , Two Stunning Features of Live Scoring and Watch Live Score With Ball by Ball Text Commentary.",
+    "github_url": "https://play.google.com/store/apps/details?id=com.ShahzonNexus.crickhub",
+    "deployed_url": "https://play.google.com/store/apps/details?id=com.ShahzonNexus.crickhub",
+    "submitter": "Syed Ahmer Bukhari",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:05:37"
+  },
+  {
+    "id": 112,
+    "name": "Sense Bridge",
+    "description": "Sense Bridge is an AI-powered inclusive learning app designed for children who are blind or deaf. It uses Gemini to generate simple, child-friendly lessons while providing accessible Blind Mode with text-to-speech and Deaf Mode with visual lessons and quizzes. The app also includes keyboard navigation, high-contrast UI, and a reliable offline fallback so learning can continue even when AI is unavailable.",
+    "github_url": "https://github.com/realahmad07/Snese-Bridge-.git",
+    "deployed_url": "https://snesebridge.vercel.app",
+    "submitter": "AhmadHassan",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:11:56"
+  },
+  {
+    "id": 113,
+    "name": "FunVerse",
+    "description": "FunVerse is a playground of tiny AI-powered tools that make the internet fun again. Built with Google Gemini and Next.js, and deployed on Vercel.\n\n🙊 Excuse Generator Pro: pick who you're dodging (boss, teacher, rishta aunty) and get the perfect excuse, a believability score, a backup excuse and a WhatsApp-style \"proof\" chat.\n🧐 Selfie Critic: upload a selfie and Gemini reviews it like a museum masterpiece (art critic, food critic, fashion critic or desi aunty), shown in a gold frame with a made-up price.\n🔥 Roast My Website: paste any URL and it reads the real page, roasts it like a stand-up comic (and reads the roast out loud), then gives a genuine glow-up plan to fix the site.\n😂 Meme My Moment: describe your situation and get a ready-to-download meme with the right template and captions.\n\nEvery tool works in English, Urdu and Roman Urdu. Under the jokes there's real value: Roast My Website is a friendly website audit, and every result is made to be shared.",
+    "github_url": "https://github.com/saif-ullah-k/funverse",
+    "deployed_url": "https://funverse-gold.vercel.app",
+    "submitter": "Saifullah",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:12:20"
+  },
+  {
+    "id": 114,
+    "name": "Waste My Brain",
+    "description": "Waste My Brain is a playful Next.js mini-game website inspired by the simple, weird, highly clickable energy of internet toy sites. The idea is simple: tiny games that take around 30 seconds and give users something fun to poke at without accounts, setup, or long instructions.",
+    "github_url": "https://github.com/AnilaAnilaN/Waste-My-Brain",
+    "deployed_url": "https://waste-my-brain.vercel.app/",
+    "submitter": "Anila Nawaz",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:14:13"
+  },
+  {
+    "id": 115,
+    "name": "Kheriat HE?",
+    "description": "Kheriat He? is a privacy-first, empathetic web platform designed to support individuals navigating burnout, anxiety, career blockers, or creative wins. It blends immediate, structured mentorship with strict local-first data storage and an integrated emergency SOS hub.",
+    "github_url": "https://github.com/WebsiteGuy01/Kheriat-he-",
+    "deployed_url": "https://kheriat-he.netlify.app/",
+    "submitter": "Muhammed Usman Khan",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:21:05"
+  },
+  {
+    "id": 116,
+    "name": "Rishta Aunty",
+    "description": "Developer resumes are boring, so we asked: what if a Pakistani Rishta Aunty judged your GitHub instead? Rishta Aunty inspects any coder's profile via GitHub's API, weighs their abandoned repos and midnight commit habits, and uses Groq-accelerated AI to generate a hilarious matrimonial biodata roast with official stamps and compatibility scores. Built with 100% Vanilla JS, Neobrutalist design, and serverless Python, it's lightweight, lightning-fast, and built strictly to bring joy and laughter back to the web.",
+    "github_url": "https://github.com/abdulhayykhan/Rishta-Aunty",
+    "deployed_url": "https://rishta-aunty.vercel.app/",
+    "submitter": "Abdul Hayy Khan",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:27:08"
+  },
+  {
+    "id": 117,
+    "name": "Sindh Integrated FIR System",
+    "description": "Sindh Integrated Digital FIR System: A secure, AI-powered platform for digital FIR filing, real-time case tracking, multilingual support (Sindhi/Urdu/English), and role-based dashboards for Sindh Police.\nSlightly longer alternative:\n\nCitizen-centric digital FIR system for Sindh Police. Features AI-powered legal interpretation, real-time case tracking, multilingual support (Sindhi, Urdu, English), role-based access (Citizen, SHO, SSP, IGP), analytics, and Firebase backend. Built for Google AI Seekho Program.\nEven more detailed version (if you want a richer README intro):\n\nSIDFTS (Sindh Integrated Digital FIR System) is a modern, secure web application that digitizes the First Information Report process for Sindh Police.\nIt enables citizens to file FIRs online with AI-assisted multilingual interpretation (Sindhi script, Urdu script, Roman Urdu/Sindhi, and English), provides real-time case status tracking, and offers role-based dashboards for police officers (SHO, SSP, IGP) with analytics, SLA monitoring, and audit trails. Built with React, TypeScript, Firebase, and Gemini AI.",
+    "github_url": "https://github.com/MIbraheemDaudpoto/SIDFTS",
+    "deployed_url": "https://sidfts-sindh-integrated-digital-fir-system-579325372883.asia-southeast1.run.app/",
+    "submitter": "Muhammad Ibraheem",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:39:49"
+  },
+  {
+    "id": 118,
+    "name": "Neon Invader synth player",
+    "description": "Desktop Game. Move left and right by clicking the left and right arrow keys on the keyboard",
+    "github_url": "https://github.com/webiiix/Neon-Invaders-Synth-Player",
+    "deployed_url": "https://neon-invaders-synth-player.vercel.app/",
+    "submitter": "Mazhar Abbas",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:43:00"
+  },
+  {
+    "id": 119,
+    "name": "Focus Garden",
+    "description": "Focus Garden is a calm, Pomodoro-style focus timer that turns concentration into something visual and alive. Instead of watching a plain countdown, you set an intention, choose a plant species, and start a session - a hand-illustrated SVG plant grows in real time as you stay focused, blooming into full flower if you finish and wilting if you give up or drift away. It tracks streaks, focus history, and a GitHub-style 30-day activity heatmap, and runs entirely client-side: no accounts, no backend, no tracking - every session is stored locally in your browser, with one-click export/import for backups. Built with Next.js 16, React 19, and Tailwind CSS, with all plant growth animated through Framer Motion and every ambient sound (rain, forest, waves, bloom chimes) synthesized live via the Web Audio API instead of shipped as audio files. Supports light, dark, and auto themes, and installs as a PWA.",
+    "github_url": "https://github.com/saqibahmadsiddiqui/Focus-Garden",
+    "deployed_url": "https://focus-gardens.vercel.app/",
+    "submitter": "Saqib Ahmad Siddiqui",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:40:49"
+  },
+  {
+    "id": 120,
+    "name": "Golfly",
+    "description": "Golfly is the all-in-one player companion and course management platform that finally solves the everyday frustrations golfers face: finding reliable partners, managing gear, entering tournaments, and tracking real progress. Instead of scrambling through WhatsApp groups and scattered apps, players can instantly pair up for matches based on handicap, location, and availability, then coordinate tee times and chat in one place. The built-in marketplace makes buying and selling clubs, bags, balls, and tees effortless, turning unused gear into value while keeping transactions local and trusted. Tournaments Finder aggregates nearby events and leagues with clear formats, fees, and one-tap registration, so going from discovery to sign-up takes seconds. The handicap calculator follows standard rules and updates automatically as rounds are logged, giving every player an accurate, credible index. Course Caddie delivers smart yardages, club suggestions, and playing-condition insights tailored to each course and day, acting like a caddie in your pocket. Swings & Drills adds structured practice with short, focused routines and simple progress tracking so improvement feels real and rewarding. The UI is clean, fast, and built for the range and the course—big buttons, clear flows, and minimal taps to what matters. Behind the scenes, Golfly runs on a production-ready stack with secure auth, scalable APIs, and CI/CD, making it genuinely ready to ship, not just a prototype",
+    "github_url": "https://github.com/fareedamir20/Golfly",
+    "deployed_url": "https://golflyai.vercel.app/",
+    "submitter": "Fareed Amir",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:43:02"
+  },
+  {
+    "id": 121,
+    "name": "HexGuard",
+    "description": "HexGuard is a browser-native digital forensics utility that inspects files at the binary level. By dissecting magic bytes from the file header, HexGuard identifies the true binary format, flags dangerous extension mismatches (such as executables disguised as images), renders an interactive 64-byte hex dump, and calculates SHA-256 hashes—with zero data ever leaving the user's browser.",
+    "github_url": "https://github.com/MeerabRana123/HexGuard.git",
+    "deployed_url": "https://hex-guard-mu.vercel.app",
+    "submitter": "Meerab Rana",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:47:20"
+  },
+  {
+    "id": 122,
+    "name": "FUNBOX",
+    "description": "FUNBOX is one page with six hand-made toys, built for the theme \"make internet fun\". No signup, no account, no tracking, no backend, no database, no environment variables. It is a static Next.js page that deploys with an empty environment, and it keeps working offline after the first load.\n\nThe toys. Every Website: a fake article that drowns in its own consent banners, newsletter modals and countdown offers, and then cleans itself up to reveal the same page with nothing on it. Not A Robot: a captcha with real deterministic logic and absurd prompts, plus a slider that snaps back. Cursor Chaos: a 1998 sparkle trail, a marquee you can stop, and a button that runs away. Guestbook: entries stay in your browser, seeded with 1998 era posts, and the page says so plainly. Dial-Up Karaoke: dial the ISP number yourself and hear a synthesised handshake you can sing along to. Slop Machine: paste a sentence, get it back in LinkedIn bait, SEO blog and engagement farm dialects, with a live slop score.\n\nThe point: the internet stopped being fun because every page became a funnel. Fun is cheap. Six toys, one URL, zero data collected. The one thing we did not joke about is accessibility: every tile and toy is keyboard operable, contrast was measured with a script rather than eyeballed, and reduced motion is respected. Built in two hours, from theme reveal to live URL, by a team of five AI agents coordinating only through files in a shared folde",
+    "github_url": "https://github.com/ahm3d-karim/funbox",
+    "deployed_url": "https://funbox-ahm3dkarim.vercel.app/",
+    "submitter": "Ahmad Karim",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:48:52"
+  },
+  {
+    "id": 123,
+    "name": "Forensic Integrity Verifier",
+    "description": "Developed a CLI digital forensics utility in Python to automate file integrity verification, detect unauthorized tampering using SHA-256 hashing, and generate structured evidence reports.",
+    "github_url": "https://github.com/AyeshaQandeel/forensic-integrity-verifier",
+    "deployed_url": "https://github.com/AyeshaQandeel/forensic-integrity-verifier",
+    "submitter": "Ayesha Qandeel",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:49:11"
+  },
+  {
+    "id": 124,
+    "name": "Dear Hoever",
+    "description": "Mail It Forward is a tiny art exchange that makes the internet feel\nhand-delivered again. You draw a postcard on a 32×32 pixel canvas —\nsmall enough that anyone can make art, big enough to say something —\nwrite a note to a stranger, pick a stamp, and mail it. Somewhere in\nthe world, someone receives your one-of-one original and mails one of\ntheir own forward. No feeds, no likes, no algorithms: just a mailbox\nfull of tiny kindnesses from people you'll never meet. Built for the\n\"Make the Internet Fun\" theme, because the best part of the internet\nwas always finding something a human made just for you.",
+    "github_url": "https://github.com/ReachMuhammadAhmed/DEAR-WHOEVER",
+    "deployed_url": "https://ai.studio/apps/dff25b58-3f0d-40cb-a42e-23b1a6abcb48",
+    "submitter": "Muhammad Ahmed",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:50:06"
+  },
+  {
+    "id": 125,
+    "name": "Funternet",
+    "description": "Funternet Arcade Project Description\n\nFunternet Arcade is an AI-powered web experience that transforms boring internet content into fun, interactive games.\n\nUsers can paste an article, study notes, technical concepts, Terms & Conditions, or simply enter a topic they want to explore. Using Google Gemini, Funternet analyzes the content and dynamically converts it into a personalized game experience such as a Boss Battle, Trivia Rush, Escape Room, Mystery Quest, Speed Challenge, or interactive adventure.\n\nInstead of passively reading information, users actively play through it—earning XP, building streaks, answering challenges, defeating AI-generated bosses, unlocking achievements, and celebrating victories with animations and confetti.\n\nFor example, boring Terms & Conditions can become a battle against “The Terms & Conditions Demon,” while learning DNS can become “Escape the DNS Dungeon.”\n\nThe project directly reflects the hackathon theme “Make Internet Fun” by reimagining the internet as something users can play, not just consume.\n\nKey Features\nAI-generated games powered by Google Gemini\nMultiple interactive game modes\nDynamic stories, questions, challenges, and boss battles\nXP, streaks, scoring, achievements, and progress tracking\nAnimated boss health and game feedback\nFun loading experiences and micro-interactions\nShareable final scores\nRecently played games stored locally\nBuilt-in demo games for reliable offline/live presentations\nFully responsive mobile and desktop experience\nTech Stack\n\nNext.js · TypeScript · Tailwind CSS · Framer Motion · Google Gemini API · Vercel\n\nOne-line pitch\n\nFunternet Arcade turns anything boring on the internet into an AI-powered game.\n\nShort submission version\n\nFunternet Arcade is an AI-powered platform that transforms boring internet content into interactive games. Paste an article, notes, Terms & Conditions, or any topic, and Gemini turns it into boss battles, quizzes, escape rooms, and challenges with XP, streaks, achievements, and animated gameplay. Instead of simply consuming the internet, Funternet lets you play it.",
+    "github_url": "https://github.com/faizanaauf/funternet",
+    "deployed_url": "funternet.vercel.app",
+    "submitter": "Muhammad Faizan Raza",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:50:39"
+  },
+  {
+    "id": 126,
+    "name": "Overkill",
+    "description": "Overkill 🚀 is a satirical, high-impact web tool that transforms everyday thoughts into hilarious, over-engineered corporate jargon and Silicon Valley startup hype.\n * Multi-Tone Engine: Convert mundane statements into Office Email, LinkedIn Flex, or Startup Founder speak powered by Google Gemini AI.",
+    "github_url": "https://github.com/zubair-xd01/Overkill",
+    "deployed_url": "https://overkill-eta.vercel.app/",
+    "submitter": "Zubair Ali Bhan",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:53:42"
+  },
+  {
+    "id": 127,
+    "name": "bahana generator",
+    "description": "The Bahana Generator v2.0 single-page web game is built, tested, and ready. It delivers an authentic, funny, and interactive Desi entertainment experience with zero external dependencies.",
+    "github_url": "https://github.com/kasaam-ali/bahana-generator.git",
+    "deployed_url": "https://bahana-generator-ivn2.vercel.app/",
+    "submitter": "Kasaam Ali",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:51:26"
+  },
+  {
+    "id": 128,
+    "name": "MemeFall",
+    "description": "A one-page web app where users create simple memes and then watch those memes fall, bounce, and float around the screen with physics.",
+    "github_url": "https://github.com/SheikhAbdullahNasir/MemeFall",
+    "deployed_url": "https://memefalll.netlify.app/",
+    "submitter": "Abdullah Bin Nasir",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:51:58"
+  },
+  {
+    "id": 129,
+    "name": "Object Royale",
+    "description": "Sorry for this big Summary I was short on time couldn't compact this :)\n\nObject Royale\n\n**Photograph your room. Turn everyday objects into fighters. Make them battle.**\n\nObject Royale is a mobile-first AI fighting game that transforms any photo of your surroundings into a playable roster. Photograph your desk, and objects such as your chai cup, laptop, stapler and headphones come alive as unique fighters—each with its own name, personality, type, statistics, weaknesses, moves and passive abilities.\n\nPlayers choose a fighter, customize its loadout and enter a strategic turn-based battle against the CPU. Moves can inflict damage or status effects including burn, stun, shield, boost and weaken. Powerful attacks consume more energy, so every turn requires a meaningful decision.\n\nGemini 2.5 Flash analyzes the uploaded image, identifies four to six objects and returns their locations as structured data. Each detected object is cropped from the original photograph to create its fighter portrait. AI then designs object-specific abilities: a hot drink can burn opponents, a phone can stun them with a notification barrage, a bottle can heal and a book can create a defensive shield.\n\nDuring battle, an AI announcer reacts to every attack with dynamic commentary, which can also be spoken aloud. Synthesized arcade sounds, animations and phone vibration make each hit feel impactful. After the fight, Object Royale generates a boxing-style victory poster containing the fighters, final result and a “tale of the tape” statistics table that users can save or share directly from their device.\n\nThe interface uses a distinctive fight-night poster and risograph-zine aesthetic, featuring warm paper textures, thick ink outlines, halftone patterns, offset shadows and bold condensed typography. It includes dedicated responsive layouts for both mobile and desktop.\n\nObject Royale was built with Next.js 16, React 19, TypeScript, Tailwind CSS v4 and Motion. It uses Gemini 2.5 Flash through OpenRouter for vision and structured fighter generation, Gemini 2.5 Flash-Lite for commentary, and a custom TypeScript battle engine tested through more than 2,000 simulated fights. Web Audio, Web Speech, Web Share and image-generation browser APIs provide sound, spoken commentary and shareable posters.\n\nThe application is designed to remain reliable during live demonstrations. If the AI service or internet connection fails, a built-in demo arena remains completely playable and commentary automatically switches to prepared fallback lines. Repeated image scans are cached, AI output is limited to control costs, API keys remain server-side and people or personal information are excluded from image analysis.\n\nObject Royale was developed through AI-agent orchestration. A planning agent produced the specifications, visual language and shared type contracts, while specialized coding agents developed the battle engine, AI pipeline and application screens in parallel. Their work was reviewed and integrated before deployment.\n\n**Repository:** https://github.com/hamzajavid-dev/Object-Royale",
+    "github_url": "https://github.com/hamzajavid-dev/Object-Royale",
+    "deployed_url": "https://object-royale.vercel.app/",
+    "submitter": "Muhammad Hamza Javid",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:51:58"
+  },
+  {
+    "id": 130,
+    "name": "Flood Command",
+    "description": "FloodCommand is an autonomous, agentic disaster-response system built to solve a specific failure in Pakistan's flood relief efforts: the human bottleneck. Every existing system relies on a single coordinator reading WhatsApp messages, judging severity, and manually calling NGOs — a process that collapses under the volume of a real flood, contributing to the ~72-hour average delay before rescue reaches victims (a gap tied to 1,739 deaths and 33 million displaced in the 2022 Pakistan floods alone).\n\nFloodCommand replaces that human chokepoint with a pipeline of five specialized AI agents communicating over a Redis event bus: **Intake** parses distress messages in Urdu/Pashto, **Triage** scores severity (weighing injuries, children, rising water), **Geo** resolves described locations to GPS coordinates via Nominatim, **Dispatch** matches the nearest available NGO using Haversine distance and locks the assignment to prevent duplication, and **Notify** simultaneously messages both the victim and the responding NGO via WhatsApp — no human approval required.\n\nBuilt on FastAPI, the Claude API, Redis, Twilio, and Leaflet.js for live map visualization, and deployable on Railway, the system is designed to turn a 72-hour coordination delay into roughly 90 seconds — using WhatsApp, an interface already familiar to 128 million Pakistani users. It's a hackathon-stage prototype demonstrating real-time, multi-agent disaster coordination.",
+    "github_url": "https://github.com/adotak/FloodCommand_Cortexium_AtomCamp",
+    "deployed_url": "https://flood-command-cortexium-atom-camp.vercel.app/",
+    "submitter": "Ahmad Aziz",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:52:11"
+  },
+  {
+    "id": 131,
+    "name": "TrackMe Tarot",
+    "description": "TrackMe Tarot is a zero-login web app that shows people how much the internet already knows about them, in the funniest way possible. In about 10 seconds it reads what every website can silently see (device, timezone, fonts, battery, connection) and uses the Gemini API to turn those signals into a witty, eerily accurate tarot-style fortune like \"The 1AM Overthinker\", along with a 0-100 Exposure Score, three practical tips to reduce your digital footprint, and a shareable card built for WhatsApp, LinkedIn and X. It makes privacy awareness fun instead of boring, and nothing is stored: signals are read locally and only a short summary is used to write the fortune, with a rule-based fallback so it never breaks. As a startup, the free viral tool builds the audience, while \"TrackMe for Teams\" lets companies, banks and universities send branded campaign links and track team exposure on a dashboard, targeting the multi-billion-dollar security awareness market that people currently find dull. Built with Vite, vanilla JS, Vercel serverless functions and the Gemini API using Antigravity IDE.",
+    "github_url": "https://github.com/umerkhan6967/trackme-tarot.git",
+    "deployed_url": "https://umerkhan6967.github.io/trackme-tarot/",
+    "submitter": "muhammad umar",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:52:50"
+  },
+  {
+    "id": 132,
+    "name": "PurrfectCare - AI Feline Health & Adoption Platform",
+    "description": "PurrfectCare is a full-stack, AI-powered pet care and feline health platform. Built during the vibe coding session, it features:\n\nAI Health Triage: An automated symptom assessment engine with deterministic safety rules and severity classification (Low, Medium, Emergency).\n\nSmart Nutrition Calculator: Caloric and macro meal planning with a toxic food ingredient alert system.\n\nCat Adoption Matching: Vector-based profile recommendations matching rescue cats to adopters based on environment and lifestyle.\n\nWellness Dashboard: Preventive vaccination schedules and weight tracking.\nBuilt using Next.js 14 (App Router), Tailwind CSS, shadcn/ui, Supabase (PostgreSQL), and Gemini API.",
+    "github_url": "https://github.com/hasnainahmad87/PurrfectCare---AI-Feline-Health-Adoption-Platform",
+    "deployed_url": "https://purrfect-care-ai-feline-health-adop.vercel.app/",
+    "submitter": "Hasnain Ahmad",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:55:30"
+  },
+  {
+    "id": 133,
+    "name": "StudyFlow",
+    "description": "StudyFlow is a student productivity web application designed to bring everyday academic tasks into one connected workspace. Students can manage their timetable, assignments, exams, attendance, study sessions, goals, and progress without switching between multiple tools.",
+    "github_url": "https://github.com/afaqahmadcs/studyflow",
+    "deployed_url": "https://studyflow-gilt-ten.vercel.app/",
+    "submitter": "AFAQ AHMAD",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 22:57:13"
+  },
+  {
+    "id": 134,
+    "name": "Bas Cick karo",
+    "description": "Pakistani street turned into an interactive website.\n\nThe page looks like a colorful bazaar with things like a rickshaw, chai stall, cricket bat, plastic chair, uncle, cat, wedding lights, and electricity poles. Almost everything is clickable and reacts with funny Pakistani-style jokes, sounds, animations, or mini interactions.\n\nThe main idea is simple: there is no serious purpose — you just explore, click random things, and enjoy the chaos. (GIVE IT SOME LOADING TIME) (LET IT LOAD BEFORE TRYING PLS)",
+    "github_url": "https://github.com/AliAbdullahpgr/Bas-Click-Karo",
+    "deployed_url": "https://bas-click-karo.vercel.app/",
+    "submitter": "Ali Abdullah",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 23:00:09"
+  },
+  {
+    "id": 135,
+    "name": "RankPulse",
+    "description": "A complete ai seo assistant",
+    "github_url": "https://github.com/Seltherpython/rankpulse-pro",
+    "deployed_url": "rankpulse-pro.vercel.app",
+    "submitter": "Haziq Mahmood",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 23:00:57"
+  },
+  {
+    "id": 136,
+    "name": "Your Story to Fun Stckers Conversion",
+    "description": "Sticker Story Teller is an AI-powered web app that turns everyday moments into fun, visual stories using emojis and stickers. You simply describe what happened, choose a vibe, and the app transforms your story into a mini animated comic that you can remix, make even more chaotic, and share as an image.\n\nThe idea is simple: turn ordinary internet moments into something creative, funny, and shareable.",
+    "github_url": "https://github.com/adeenajaweid96/Chai-Code---Ep-2",
+    "deployed_url": "https://chai-code-ep-2.vercel.app/",
+    "submitter": "Adeena Jaweid",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 23:03:56"
+  },
+  {
+    "id": 137,
+    "name": "Boomup Core CS",
+    "description": "Boomup Core CS is a fast-paced, interactive learning platform designed for CS, Software Engineering, Data Science, and IT students that transforms complex, abstract technical theories into hyper-addictive, 30-second arcade-style micro-games. Inspired by the rapid-fire, low-stakes design pattern of Waste My Brain, the application replaces dry textbook definitions with tactile visual mechanics—such as sliders and tap-to-lock buttons—enabling users to directly manipulate real-time system behaviors like Big-O memory scaling, Gradient Descent optimization loops, and multi-threaded Mutex concurrency controls. By delivering instant visual feedback—where unoptimized logic choices visibly trigger crashing servers, exploding gradients, or data corruption—the app removes the steep intimidation barrier of advanced computing math and engineering systems, allowing beginners and elite students alike to build sharp, fluid architectural intuition in short, incremental doses.",
+    "github_url": "https://github.com/nadiaallahbakhsh4-source/Boomup-Core-CS.git",
+    "deployed_url": "https://boomup-core-cs.vercel.app/",
+    "submitter": "Nadia Allah Bakash",
+    "episode": "Episode 2",
+    "created_at": "2026-09-18 23:12:56"
   }
 ]

@@ -105,6 +105,14 @@
   padding: 56px 24px 88px;
 }
 
+.episode-section {
+  margin-bottom: 56px;
+}
+
+.episode-section:last-child {
+  margin-bottom: 0;
+}
+
 .section-heading {
   font-family: 'Fraunces', Georgia, serif;
   font-weight: 500;
@@ -112,7 +120,9 @@
   color: var(--text);
   margin: 0 0 20px;
   position: relative;
-  display: inline-block;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
   padding-bottom: 8px;
 }
 
@@ -127,20 +137,11 @@
   border-radius: 2px;
 }
 
-.section-heading-muted::after {
-  background: var(--border);
-}
-
-.section-heading-muted {
+.section-count {
+  font-family: system-ui, sans-serif;
+  font-weight: 400;
+  font-size: 13px;
   color: var(--text-muted);
-  margin: 56px 0 8px;
-}
-
-.coming-soon {
-  font-size: 14px;
-  color: var(--text-muted);
-  margin: 0;
-  padding-bottom: 8px;
 }
 
 .grid {
